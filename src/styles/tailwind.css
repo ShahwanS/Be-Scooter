@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded&display=swap');
+
+#__next {
+  min-height: 100%;
+}
+
+.navbar {
+  height: 7rem;
+  
+  transition: height 0.6s ease-in-out;
+}
+
+.navbar-smaller {
+  height: 6rem;
+  font-size: medium;
+  
+}
+
+.pic-bigger {
+  transition: width height 0.9s ease-in-out;
+  width: 200px;
+  height: 90px;
+}
+
+.pic-smaller {
+  transition: width height 0.9s ease-in-out;
+  width: 180px;
+  height: 80px;
+}
+
+.video-docker video {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.video-docker::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+}
+
+@media screen and (max-width: 640px) {
+  .video-docker::after {
+    background: rgba(0, 0, 0, 0.4);
+  }
+}
+
+
+.video-content {
+  z-index: 2;
+}
+
+.transition-transform {
+  transition-property: transform;
+  transition-timing-function: ease-in-out;
+}
+
+.transition-height {
+  transition-property: height;
+  transition-timing-function: ease-in-out;
+}
+
+.move-up {
+  transform: translateY(-100%);
+  transition: transform 200ms ease-in-out;
+  transition-duration: 500ms;
+}
+
+.move-down {
+  transform: translateY(-50%);
+  transition: transform 200ms ease-in-out;
+  transition-duration: 500ms;
+}
+
