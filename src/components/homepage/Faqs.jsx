@@ -6,12 +6,12 @@ export function Faqs() {
   return (
     <section
       id="kontakt"
-      className="body-font relative overflow-hidden bg-opacity-90 bg-[url('/images/background-auth.png')] bg-cover font-encode text-gray-600 brightness-[0.95]"
+      className="body-font brightness_[0.95] relative overflow-hidden bg-opacity-90 bg-[url('/images/background-auth.png')] bg-cover font-encode text-gray-600"
     >
       <div className="mx-auto px-5 py-5 md:grid md:grid-cols-2 md:py-20">
         <AnimationOnScroll
-          classNameInView="opacity-100 translate-x-0 transition duration-500"
-          classNameNotInView="opacity-0 -translate-x-20"
+          classNameInView="opacity-100 transform transition-all duration-500 ease-in-out"
+          classNameNotInView="opacity-0 transform translate3d(-20px, 0, 0)"
         >
           <div className="relative items-end justify-start rounded-lg bg-gray-300 p-10 md:flex md:h-[620px] md:w-full md:flex-col lg:h-[720px]">
             <iframe
