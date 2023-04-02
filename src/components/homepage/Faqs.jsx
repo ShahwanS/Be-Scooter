@@ -10,7 +10,7 @@ export function Faqs() {
     >
       <div className="mx-auto px-5 py-5 md:grid md:grid-cols-2 md:py-20">
         <AnimationOnScroll
-          classNameInView="opacity-100 translate-x-0 transition duration-1000"
+          classNameInView="opacity-100 translate-x-0 transition duration-500"
           classNameNotInView="opacity-0 -translate-x-20"
         >
           <div className="relative items-end justify-start rounded-lg bg-gray-300 p-10 md:flex md:h-[620px] md:w-full md:flex-col lg:h-[720px]">
