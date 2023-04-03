@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import { Autoplay, Pagination, Navigation } from 'swiper/core'
 import 'swiper/swiper-bundle.min.css'
@@ -86,11 +86,30 @@ const sliderData = [
     buttonText: 'Mehr lesen',
     buttonLink: 'https://store.be-scooter.de/collections/touren-1',
     imageSrc: '/images/pics/jobrads.jpg',
-    imageAlt: 'Be-SCooTER Touren',
+    imageAlt: 'Jobrad be-scooter',
   },
 ]
 
 export function SecondaryFeatures() {
+  useEffect(() => {
+    const swiperInstance = document.querySelector('.swiper-container').swiper
+    const prevButton = document.querySelector('.custom-swiper-prev')
+    const nextButton = document.querySelector('.custom-swiper-next')
+
+    prevButton.addEventListener('click', () => {
+      swiperInstance.slidePrev()
+    })
+
+    nextButton.addEventListener('click', () => {
+      swiperInstance.slideNext()
+    })
+
+    return () => {
+      prevButton.removeEventListener('click', swiperInstance.slidePrev)
+      nextButton.removeEventListener('click', swiperInstance.slideNext)
+    }
+  }, [])
+
   return (
     <section className="section h-[900px] bg-[#7e92a575] pt-4 md:h-[750px] lg:h-[850px]">
       <Swiper
@@ -105,7 +124,6 @@ export function SecondaryFeatures() {
         pagination={{
           clickable: true,
         }}
-        navigation
         modules={[Autoplay, Pagination, Navigation]}
         className="swiper-container h-full font-encode"
       >
@@ -119,7 +137,7 @@ export function SecondaryFeatures() {
                 <div className="text-md text-center font-bold text-black  md:text-5xl">
                   {slide.title}
                 </div>
-                <div className="text-center text-[14px] text-[#333333] md:text-base lg:text-xl">
+                <div className="text-center text-[15px] text-[#333333] md:text-base lg:text-xl">
                   {slide.description}
                 </div>
                 <button className="md:text-md mx-auto mt-3 w-full max-w-full self-start rounded-3xl bg-[#3A3A3A] p-2 text-sm font-bold text-white hover:bg-opacity-80 md:mt-5 md:max-w-[90%] lg:max-w-[80%] lg:text-lg">
@@ -142,13 +160,19 @@ export function SecondaryFeatures() {
                     src={slide.imageSrc}
                     alt={slide.imageAlt}
                     fill={true}
-                    className="object-fit absolute top-0 left-0 h-auto w-full md:h-full"
+                    className=" absolute top-0 left-0 h-auto w-full object-center md:h-full"
                   />
                 </div>
               )}
             </div>
           </SwiperSlide>
         ))}
+        <button className="custom-swiper-prev absolute left-4 top-1/2 z-10 hidden -translate-y-1/2 transform text-8xl font-bold text-black focus:outline-none md:block">
+          &lsaquo;
+        </button>
+        <button className="custom-swiper-next absolute right-4 top-1/2 z-10 hidden -translate-y-1/2 transform text-8xl font-bold text-black focus:outline-none md:block">
+          &rsaquo;
+        </button>
       </Swiper>
     </section>
   )

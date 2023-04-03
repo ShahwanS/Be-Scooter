@@ -1,3 +1,5 @@
+
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     async headers() {
@@ -8,7 +10,7 @@ const nextConfig = {
           headers: [
             {
               key: 'Content-Security-Policy',
-              value: "script-src 'self' 'unsafe-eval'; object-src 'self';",
+              value: "script-src 'self' https://cdn.vercel-insights.com https://cdnjs.cloudflare.com 'unsafe-eval'; object-src 'self'; ",
             },
           ],
         },

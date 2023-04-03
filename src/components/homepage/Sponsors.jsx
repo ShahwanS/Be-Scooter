@@ -172,7 +172,7 @@ export function Sponsors() {
                 ${logo.marginTopMd || ''}
                 ${logo.logoHeight || ''} cursor-pointer`}
                 >
-                  <div className="relative h-[90px]">
+                  <div className="relative h-[50px] md:h-[90px]">
                     <a href={logo.link}>
                       <Image
                         className="object-contain"
