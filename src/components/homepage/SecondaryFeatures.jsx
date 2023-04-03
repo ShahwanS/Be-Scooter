@@ -140,8 +140,11 @@ export function SecondaryFeatures() {
                 <div className="text-center text-[15px] text-[#333333] md:text-base lg:text-xl">
                   {slide.description}
                 </div>
-                <button className="md:text-md mx-auto mt-3 w-full max-w-full self-start rounded-3xl bg-[#3A3A3A] p-2 text-sm font-bold text-white hover:bg-opacity-80 md:mt-5 md:max-w-[90%] lg:max-w-[80%] lg:text-lg">
-                  <a href={slide.buttonLink}>{slide.buttonText}</a>
+                <button
+                  href={slide.buttonLink}
+                  className="md:text-md mx-auto mt-3 w-full max-w-full self-start rounded-3xl bg-[#3A3A3A] p-2 text-sm font-bold text-white hover:bg-opacity-80 md:mt-5 md:max-w-[90%] lg:max-w-[80%] lg:text-lg"
+                >
+                  <a>{slide.buttonText}</a>
                 </button>
               </div>
               {(index === 0 || index === 1 || index === 2) && (
