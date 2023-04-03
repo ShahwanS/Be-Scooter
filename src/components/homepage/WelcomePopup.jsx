@@ -45,6 +45,7 @@ export function WelcomePopup() {
             width={700}
             height={700}
             alt="Video Thumbnail"
+            loading="eager"
             priority
           />
           <h1 className="mb-3 text-2xl font-bold">
