@@ -8,6 +8,7 @@ import { Knausgaard } from '@/components/homepage/Knausgaard'
 import { PrimaryFeatures } from '@/components/homepage/PrimaryFeatures'
 import { SecondaryFeatures } from '@/components/homepage/SecondaryFeatures'
 import { Testimonials } from '@/components/homepage/Testimonials'
+import { WelcomePopup } from '../components/homepage/WelcomePopup'
 
 export default function Home() {
   return (
@@ -46,6 +47,7 @@ export default function Home() {
       </Head>
       <Header />
       <main>
+        <WelcomePopup />
         <Hero />
         <PrimaryFeatures />
         <SecondaryFeatures />

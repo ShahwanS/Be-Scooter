@@ -30,9 +30,7 @@ export function Hero() {
         </h3>
       </div>
       <button className="video-content mt-5 mb-5 inline-flex justify-center rounded border-2 border-white bg-black py-4 px-6 text-sm  text-white transition duration-500 ease-in-out hover:scale-110 hover:opacity-90 focus:outline-none md:mt-10 md:w-1/3 md:py-4  md:text-lg">
-        <a href="https://store.be-scooter.de/collections/frontpage/products/egret-pro-jetzt-inkl-versicherung-bis-zum-28-02-2023-von-be-scooter%C2%AE%EF%B8%8F">
-          JETZT LEIHEN
-        </a>
+        <a href="https://forms.gle/XNveAPxiATQkUXxbA">JETZT LEIHEN</a>
       </button>
     </section>
   )

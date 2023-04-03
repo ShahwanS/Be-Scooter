@@ -51,7 +51,7 @@ const sliderData = [
     ),
     description: (
       <p className="sm:text-xs md:text-[14.5px] md:leading-normal lg:p-5 lg:text-base">
-        <a className="font-bold">Sie haben die Auswahl:</a>
+        <strong className="font-bold">Sie haben die Auswahl:</strong>
         <br />
         45 km/h auf zwei Rädern oder doch lieber 25 km/h auf drei Rädern?
         <br />
@@ -59,14 +59,14 @@ const sliderData = [
         maximalen Fahrspaß!
         <br />
         <br />
-        <a className="font-bold">Einfach unbeschwert unterwegs!</a>
+        <strong className="font-bold">Einfach unbeschwert unterwegs!</strong>
         <br />
         Das stylische und leistungsstarke Maximus MX2 E-Mofa überzeugt nicht nur
         im sportlichen Design, sondern auch mit vielen weiteren beeindruckenden
         Features.
         <br />
         <br />
-        <a className="font-bold">Sportlich auf drei Rädern</a>
+        <strong className="font-bold">Sportlich auf drei Rädern</strong>
         <br />
         Der Maximus MX3 ist ein wahrer Hingucker. Ein Must-have für alle, die
         ein praktisches, zuverlässiges, kosteneffizientes und umweltfreundliches
@@ -84,7 +84,7 @@ const sliderData = [
     description:
       'Informiert Euch jetzt bei uns im "SToRE ONLINE!" über das neue Angebot in Zusammenarbeit mit JOBRAD®. Über uns hast Du und Deine Arbeitskollegen/innen die Möglichkeit, unsere hochwertigen und stylischen SXT VELOX / SXT VELOX MAX als Job-ePedelec zu bestellen und dabei jede Menge zu sparen. ',
     buttonText: 'Mehr lesen',
-    buttonLink: 'https://store.be-scooter.de/collections/touren-1',
+    buttonLink: 'https://store.be-scooter.de/pages/jobrad',
     imageSrc: '/images/pics/jobrads.jpg',
     imageAlt: 'Jobrad be-scooter',
   },

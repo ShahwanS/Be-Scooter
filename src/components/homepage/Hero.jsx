@@ -50,7 +50,7 @@ const data = [
     ),
 
     buttonText: 'Reparaturtermin Online Buchen',
-    href: '#',
+    href: 'https://calendly.com/bescooter/buchung-inspektion-e-scooter-klon',
   },
   {
     id: 3,
