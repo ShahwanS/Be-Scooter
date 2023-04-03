@@ -22,11 +22,12 @@ export function SecondaryFeatures() {
           sicher im Auto zu transportieren. <br /> funktional -
           ästhetisch - intelligent
         </h3>
-        <button className="inline-flex w-[300px] justify-center rounded-lg border-0 bg-slate-200 py-1 px-6 text-sm text-black ring-1 ring-white hover:opacity-80 focus:outline-none md:w-1/3 md:bg-black md:py-2 md:text-2xl md:text-white">
-          <a href="https://store.be-scooter.de/products/e-scooter-parkplatz-by-fraesfreude-und-be-scooter%C2%AE?_pos=1&_psq=parkplatz&_ss=e&_v=1.0">
-            E-SCooTER-PARKPLATZ entdecken
-          </a>
-        </button>
+        <a
+          href="https://store.be-scooter.de/products/e-scooter-parkplatz-by-fraesfreude-und-be-scooter%C2%AE?_pos=1&_psq=parkplatz&_ss=e&_v=1.0"
+          className="inline-flex w-[300px] justify-center rounded-lg border-0 bg-slate-200 py-1 px-6 text-sm text-black ring-1 ring-white hover:opacity-80 focus:outline-none md:w-1/3 md:bg-black md:py-2 md:text-2xl md:text-white"
+        >
+          E-SCooTER-PARKPLATZ entdecken
+        </a>
       </div>
     </section>
   )

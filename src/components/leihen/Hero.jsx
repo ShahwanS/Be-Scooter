@@ -29,9 +29,12 @@ export function Hero() {
           Tretroller begeistern.
         </h3>
       </div>
-      <button className="video-content mt-5 mb-5 inline-flex justify-center rounded border-2 border-white bg-black py-4 px-6 text-sm  text-white transition duration-500 ease-in-out hover:scale-110 hover:opacity-90 focus:outline-none md:mt-10 md:w-1/3 md:py-4  md:text-lg">
-        <a href="https://forms.gle/XNveAPxiATQkUXxbA">JETZT LEIHEN</a>
-      </button>
+      <a
+        href="https://forms.gle/XNveAPxiATQkUXxbA"
+        className="video-content mt-5 mb-5 inline-flex justify-center rounded border-2 border-white bg-black py-4 px-6 text-sm  text-white transition duration-500 ease-in-out hover:scale-110 hover:opacity-90 focus:outline-none md:mt-10 md:w-1/3 md:py-4  md:text-lg"
+      >
+        JETZT LEIHEN
+      </a>
     </section>
   )
 }

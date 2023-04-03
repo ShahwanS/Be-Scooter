@@ -3,7 +3,7 @@ import AnimationOnScroll from '../animationOnScroll/animationOnScroll'
 
 export function Hero() {
   return (
-    <div className="h-full overflow-hidden bg-[#7e92a575] md:flex md:pb-20 font-encode">
+    <div className="h-full overflow-hidden bg-[#7e92a575] font-encode md:flex md:pb-20">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="relative mt-10 block items-center justify-center md:hidden ">
           <Image
@@ -26,7 +26,7 @@ export function Hero() {
                   FAHRSICHERHEITSTRAINING „BASIC“ MIT EINEM E-SCOOTER
                 </h2>
               </div>
-              <p className="text-md mt-5 md:mt-2 leading-8 text-[#333333] md:text-lg">
+              <p className="text-md mt-5 leading-8 text-[#333333] md:mt-2 md:text-lg">
                 (elektrounterstützter Tretroller). Das Ziel ist es, das
                 Sicherheitsgefühl beim Führen von elektrounterstützten
                 Fahrzeugen zu erhöhen und für die neue Fortbewegungsmöglichkeit
@@ -37,11 +37,12 @@ export function Hero() {
                 Sicherheitsempfehlung und natürlich Zeit für individuelle
                 Fragen.
               </p>
-              <button className="mt-5 inline-flex w-full justify-center rounded border-2 border-white bg-black  py-4 px-6 text-lg   text-white transition duration-500 ease-in-out hover:opacity-90 focus:outline-none md:mt-5 md:py-2 lg:mt-auto ">
-                <a href="https://store.be-scooter.de/products/fahrsicherheitstraining-basic-mit-einem-e-scooter?_pos=1&_psq=fahrsicher&_ss=e&_v=1.0">
-                  Fahrsicherheitstraining Online Buchen
-                </a>
-              </button>
+              <a
+                href="https://store.be-scooter.de/products/fahrsicherheitstraining-basic-mit-einem-e-scooter?_pos=1&_psq=fahrsicher&_ss=e&_v=1.0"
+                className="mt-5 inline-flex w-full justify-center rounded border-2 border-white bg-black  py-4 px-6 text-lg   text-white transition duration-500 ease-in-out hover:opacity-90 focus:outline-none md:mt-5 md:py-2 lg:mt-auto "
+              >
+                Fahrsicherheitstraining Online Buchen
+              </a>
             </div>
           </div>
           <div className="relative mt-1 hidden items-center justify-center md:block md:h-auto md:w-auto">
@@ -53,11 +54,8 @@ export function Hero() {
             />
           </div>
         </div>
-        
-        
-        <div className="border-2 border-transparent mt-14 bg-gradient-to-b from-blue-400 to-green-500 p-1"/>
 
-
+        <div className="mt-14 border-2 border-transparent bg-gradient-to-b from-blue-400 to-green-500 p-1" />
 
         <AnimationOnScroll
           classNameInView={'opacity-100 translate-y-0 transition duration-1000'}
@@ -94,11 +92,12 @@ export function Hero() {
                   diesem Event, wird man noch lange sprechen! Wir nennen es ganz
                   lässig: &quot;...BIRTHDAY CRUISEN!&quot;
                 </p>
-                <button className="mb-5 mt-5 inline-flex w-full justify-center rounded border-2 border-white bg-black py-4 px-6 text-lg text-white transition duration-500 ease-in-out hover:opacity-90 focus:outline-none md:mt-7 md:py-3 lg:mt-9">
-                  <a href="https://store.be-scooter.de/collections/e-scooter-events/products/hollyday-cruise-one-summer-2020">
-                    Jetzt Online Buchen
-                  </a>
-                </button>
+                <a
+                  href="https://store.be-scooter.de/collections/e-scooter-events/products/hollyday-cruise-one-summer-2020"
+                  className="mb-5 mt-5 inline-flex w-full justify-center rounded border-2 border-white bg-black py-4 px-6 text-lg text-white transition duration-500 ease-in-out hover:opacity-90 focus:outline-none md:mt-7 md:py-3 lg:mt-9"
+                >
+                  Jetzt Online Buchen
+                </a>
               </div>
             </div>
           </div>

@@ -45,11 +45,12 @@ export function Knausgaard() {
                   Hamburg, der für höchste Qualitätsansprüche und Fahrzeuge der
                   Spitzenklasse steht.
                 </p>
-                <button className=" mt-3 rounded-xl border-b-4 border-[#35495e] bg-[#35495e] py-3 px-4 font-bold text-white transition hover:-translate-y-1 hover:opacity-90">
-                  <a href="https://store.be-scooter.de/collections/egret">
-                    Erget E-SCooTER IM &quot;SToRE ONLINE!&quot;
-                  </a>
-                </button>
+                <a
+                  href="https://store.be-scooter.de/collections/egret"
+                  className=" mt-3 rounded-xl border-b-4 border-[#35495e] bg-[#35495e] py-3 px-4 font-bold text-white transition hover:-translate-y-1 hover:opacity-90"
+                >
+                  Erget E-SCooTER IM &quot;SToRE ONLINE!&quot;
+                </a>
               </div>
             </div>
 
@@ -131,11 +132,12 @@ export function Knausgaard() {
                   Die neuen Modelle, die Ende April und im Mai ausgeliefert
                   werden, können hier ab sofort bereits vorbestellt werden.
                 </p>
-                <button className=" mt-3 rounded-xl border-b-4 border-[#35495e] bg-[#35495e] py-3 px-4 font-bold text-white transition hover:-translate-y-1 hover:opacity-90">
-                  <a href="https://store.be-scooter.de/products/vmax-die-vx2-serie-e-scooter?_pos=2&_sid=fa05ad123&_ss=r">
-                    ZUR VX2 PRO SERIE
-                  </a>
-                </button>
+                <a
+                  href="https://store.be-scooter.de/products/vmax-die-vx2-serie-e-scooter?_pos=2&_sid=fa05ad123&_ss=r"
+                  className=" mt-3 rounded-xl border-b-4 border-[#35495e] bg-[#35495e] py-3 px-4 font-bold text-white transition hover:-translate-y-1 hover:opacity-90"
+                >
+                  ZUR VX2 PRO SERIE
+                </a>
               </div>
             </div>
           </div>

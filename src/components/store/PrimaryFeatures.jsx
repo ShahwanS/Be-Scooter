@@ -31,11 +31,12 @@ export function PrimaryFeatures() {
           Kraftpaket bei uns im &quot;SToRE!&quot; in Heuchelheim. Natürlich ist
           der PRO bei uns als Fachhändler von EGRET auch noch verfügbar.
         </h3>
-        <button className="inline-flex justify-center rounded-lg border-0 bg-slate-200 py-1 px-6 text-sm text-black ring-1 ring-white hover:opacity-80 focus:outline-none md:w-1/3 md:bg-black md:py-2 md:text-2xl md:text-white">
-          <a href="https://store.be-scooter.de/collections/frontpage/products/sxt-buddy-pro-ekfv">
-            Hol Dir jetzt den Buddy Pro eKFV !
-          </a>
-        </button>
+        <a
+          href="https://store.be-scooter.de/collections/frontpage/products/sxt-buddy-pro-ekfv"
+          className="inline-flex justify-center rounded-lg border-0 bg-slate-200 py-1 px-6 text-sm text-black ring-1 ring-white hover:opacity-80 focus:outline-none md:w-1/3 md:bg-black md:py-2 md:text-2xl md:text-white"
+        >
+          Hol Dir jetzt den Buddy Pro eKFV !
+        </a>
       </div>
     </section>
   )
