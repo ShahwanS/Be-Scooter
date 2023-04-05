@@ -21,15 +21,12 @@ export function PrimaryFeatures() {
       </div>
 
       <div className="video-content flex flex-col items-center justify-between space-y-11 md:h-[60%]">
-        <h1 className="text-md font-light md:text-7xl">
-          SXT Scooters - SXT Buddy Pro eKFV
-        </h1>
-        <h3 className="text-sm font-light md:text-4xl">
-          Die Motorleistung des Egret Pro setzt neue Maßstäbe: 27 Nm sorgen für
-          eine noch kraftvollere Beschleunigung und eine beeindruckende
-          Performance auch bei Steigung oder höherer Zuladung. Teste dieses
-          Kraftpaket bei uns im &quot;SToRE!&quot; in Heuchelheim. Natürlich ist
-          der PRO bei uns als Fachhändler von EGRET auch noch verfügbar.
+        <h1 className="text-lg font-light md:text-7xl">SXT Buddy Pro eKFV</h1>
+        <h3 className="text-sm font-light md:py-5 md:text-3xl lg:text-4xl">
+          Bei der Konzeptionierung diesen Modells hat der hersteller versucht
+          sämtliche Werte bestmöglich auszureizen, was sich bei den technischen
+          Werten beeindruckend bemerkbar macht – selbstverständlich alles im
+          Rahmen der Möglichkeiten innerhalb der eKFV Zulassung / ABE Erteilung.
         </h3>
         <a
           href="https://store.be-scooter.de/collections/frontpage/products/sxt-buddy-pro-ekfv"

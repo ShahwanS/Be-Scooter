@@ -5,19 +5,30 @@ export function Footer() {
   return (
     <footer className=" h-auto border-gray-900 bg-gradient-to-br from-green-400 to-blue-400 p-4  font-encode">
       <div className="md:flex md:justify-center ">
-        <div className="mb-6 flex flex-row justify-between text-center md:mb-0 md:text-left ">
+        <div className="mb-6 flex flex-row justify-between  md:mb-0">
+          <Link href="https://www.it-recht-kanzlei.de/">
+            <Image
+              className="mt-2"
+              src="https://www.it-recht-kanzlei.de/logo/Logo_Juristisch_betreut_durch_IT-Recht_Kanzlei.png?i=3b2f2-21a74-39c6-907c-1"
+              alt="Vertreten durch die IT-Recht Kanzlei"
+              width={200}
+              height={200}
+            />
+          </Link>
+
           <Link href="#" aria-label="Home">
             <Image
-              className="rounded-lg "
-              src={'/images/pics/New_Project.png'}
+              className="mx-20 rounded-lg"
+              src={'/images/pics/beScooter.png'}
               alt="My Image"
               width={250}
               height={250}
             />
           </Link>
+
           <Link href="#" aria-label="Home">
             <Image
-              className="rounded-lg"
+              className=" rounded-lg"
               src={'/images/pics/fairness.jpg'}
               alt="My Image"
               width={90}
@@ -128,7 +139,7 @@ export function Footer() {
           <span className="dark:black w-full text-center text-sm text-black">
             © 2023{' '}
             <a href="https://www.be-scooter.de/" className="hover:underline">
-              Be-Scooter®
+              BE-SCooTER®
             </a>
             . All Rights Reserved.
           </span>

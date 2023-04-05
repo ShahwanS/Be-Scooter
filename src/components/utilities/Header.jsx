@@ -163,7 +163,7 @@ export function Header() {
       <Container>
         <nav className="relative z-50 flex h-auto items-center justify-between">
           <div
-            className={`pic-bigger relative transition-all duration-1000 md:gap-x-12 pt-3 ${
+            className={`pic-bigger relative pt-3 transition-all duration-1000 md:gap-x-12 ${
               isScrolled ? 'pic-smaller' : ''
             }`}
           >
@@ -178,7 +178,7 @@ export function Header() {
             </Link>
           </div>
 
-          <div className="hidden md:flex md:gap-x-6">
+          <div className="hidden font-bold md:flex md:gap-x-6">
             <NavLink href="/store">&quot;SToRE!&quot; Heuchelheim</NavLink>
             <NavLink href="/E-scooter-leihen/">E-Scooter leihen</NavLink>
 

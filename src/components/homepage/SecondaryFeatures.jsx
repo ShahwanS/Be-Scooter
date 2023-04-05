@@ -6,19 +6,34 @@ import Image from 'next/image'
 
 const sliderData = [
   {
-    title: 'CRUSSIS: Komfort und Sicherheit durch wertigste Komponenten',
+    title: 'EGRET: Asphalt, Schotter, Nässe - egal.',
     description:
-      'Ziel ist es, dass CRUSSIS-Produkte die bestmöglichen Fahreigenschaften bieten, weshalb sie immer präzise konstruiert und mit hochwertigen Komponenten ausgestattet sind und sein werden, um den Anforderungen des Sportreitens sowie des Ganztagesfahrens gerecht zu werden. Dabei muss es eine einfache, komfortable und sichere Fahrt bieten. Daher verwenden wir nur Markenkomponenten von Weltherstellern, die eine hohe Qualität und lange Lebensdauer garantieren.',
-    buttonText: 'CRUISSIS JETZT ENTDECKEN!',
+      ' Der Egret X ist Dein verlässlicher Partner auf allen Wegen und fühlt sich in jedem Terrain zu Hause. Der Egret X fährt Dich auch an Ziele abseits asphaltierter Straßen. Große Reifen, ein stabiler Rahmen und der geschützte Unterboden machen ihn zum idealen Gefährten für spontane Touren in die Natur.',
+    buttonText: 'HOL DIR DEN EGRET X!',
     buttonLink:
-      'https://store.be-scooter.de/products/crussis-cobra-4-1-scooterbike?_pos=11&_sid=4078cab7c&_ss=r',
+      'https://store.be-scooter.de/collections/egret/products/egret-x-e-scooter-demnachst',
     imageSrc: '/images/pics/news1.png',
-    imageAlt: 'Cruissis Scooterbikes',
+    imageAlt: 'EGRET Scooterbikes',
   },
   {
     title: 'NEUE LIEFERUNG : Stunt-Scooter und Cityroller von Soke',
-    description:
-      'Rechtzeitig zum Weihnachtsgeschenke-Shoppen haben wir wieder viele Modelle der beliebten STUNTSCOOTER und CITYROLLER von SOKE vorrätig. Auch Ersatzteile von SOKE wie neue Rollen, Bremsen, Griffe oder GRIP-TAPES sind wieder in großer Auswahl vor Ort. Bei der Entwicklung der Marke SOKE war von Beginn an das Ziel, dass sie junge Rollerfahrer vom Erlernen der ersten Tricks bis zu den fortschrittlichsten Tricks begleitet. Mit SOKE werden Champions geboren.',
+    description: (
+      <p className="sm:text-xs md:text-[14.5px] md:leading-normal lg:p-5 lg:text-base">
+        {' '}
+        Wir haben pünktlich zum Osterfest viele Modelle der beliebten SOKE
+        STUNT-SCOOTER und CITYROLLER erhalten. Wir bieten auch eine große
+        Auswahl an Original-Ersatzteilen an und wechseln gerne die
+        Verschleißteile aus. Für eine sichere Nutzung ist es wichtig,
+        regelmäßige Checks beim Fachhändler durchführen zu lassen. Beim
+        BE-SCooTER Stunt-Check machen wir ein faires Angebot für notwendige
+        Arbeiten. Wer seinen STUNT-SCooTER besonders schätzt, kann ein
+        STUNT-SCooTER REFRESH ab EUR 49,50* bekommen. <br /> <br /> *Je nach
+        Qualität und Ausführung der Rollen können höhere Kosten anfallen. <br />{' '}
+        <br />
+        Enthalten ist ein neues Grip-Tape, neue Bremse, neue Rollen sowie neue
+        Handgriffe.
+      </p>
+    ),
     buttonText: 'Soke SCooTERBIKES Entdecken',
     buttonLink: 'https://store.be-scooter.de/collections/soke',
     imageSrc: '/images/pics/news2.png',
@@ -76,7 +91,7 @@ const sliderData = [
     buttonText: "MAXIMALE INFO'S ZUM MAXIMUS!",
     buttonLink:
       'https://store.be-scooter.de/products/maximus-e-scooter-mx2-45-45-km-h-60v-32-5ah-lithium-akku-3000-watt',
-    imageSrc: '/images/pics/maximus.jpg',
+    imageSrc: '/images/pics/maximuss.jpg',
     imageAlt: 'Maximus Scooter',
   },
   {
@@ -147,7 +162,7 @@ export function SecondaryFeatures() {
                   {slide.buttonText}
                 </a>
               </div>
-              {(index === 0 || index === 1 || index === 2) && (
+              {(index === 0 || index === 1 || index === 2 || index === 4) && (
                 <div className="relative">
                   <Image
                     src={slide.imageSrc}
@@ -157,7 +172,7 @@ export function SecondaryFeatures() {
                   />
                 </div>
               )}
-              {(index === 3 || index === 4 || index === 5) && (
+              {(index === 3 || index === 5) && (
                 <div className="relative">
                   <Image
                     src={slide.imageSrc}

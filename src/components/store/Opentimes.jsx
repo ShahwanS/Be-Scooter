@@ -16,29 +16,23 @@ export function Opentimes() {
               LIEBE KUNDEN ...
             </h1>
             <p className="mb-8  text-[17px] leading-[32px] ">
-              ... wir bitten Sie/Euch in den kommenden Wochen um Verständnis,
-              wenn es zu längeren Reaktionszeiten kommt. Wir bitten Sie/Euch uns
-              weiterhin Ihr/Euer vollstes Vertrauen zu schenken und möglichst
-              von Rückfragen zur Auslieferung bestellter Fahrzeuge oder
-              aktuellem Stand der Reparatur Arbeiten abzusehen. Wir werden
-              Sie/Euch sobald uns neue Informationen zur Verfügung stehen bzw.
-              Reparaturen abgeschlossen sind sofort eine entsprechende
-              Information an Sie/Euch weitergeben. Durch die bestehenden und
-              nicht kleiner werdenden Schwierigkeiten in der Logistik- und
-              Versandbranche kommt es leider zu absolut bisher nicht gekannten
-              Folgeproblemen was die Produktion/Herstellung/Fertigstellung und
-              Auslieferung von Waren, Ersatzteilen und E-Scooter betrifft. Wir
-              sind im ständigen Austausch mit unseren Geschäftspartnern und
-              unternehmen alles, was uns möglich ist, Ihre/Eure Wünsche
-              schnellstmöglich und nach wie vor, in dem für uns nicht
-              diskutierbaren Qualitäts- und Sicherheitsstandart zu erbringen.
-              Danke für Ihr/Euer Verständnis, die Geduld und die Treue, die es
-              in diesen Zeiten manchmal erfordert.
-            </p>
-
-            <p className="mb-8 text-lg leading-relaxed ">
-              ... weitere Termine sind nach Vereinbarung selbstverständlich
-              möglich.
+              wir möchten Sie darüber informieren, dass es in den letzten Wochen
+              aufgrund von Problemen an unserer Telefonanlage zu einer
+              schlechteren Erreichbarkeit unseres Kundenservice gekommen ist.
+              Wir möchten uns aufrichtig für die längeren Reaktionszeiten
+              entschuldigen, die dadurch entstanden sind. Wir möchten Ihnen
+              jedoch versichern, dass wir das Problem zwischenzeitlich
+              lokalisiert haben und mit Hochdruck an einer abschließenden Lösung
+              arbeiten. Wir sind uns bewusst, wie wichtig eine zuverlässige
+              Erreichbarkeit unseres Kundenservice für Sie ist und tun alles, um
+              Ihnen in Zukunft wieder den gewohnten Service bieten zu können.
+              Sollten Sie uns momentan telefonisch nicht erreichen können,
+              bitten wir Sie, uns gerne auch per E-Mail oder über unser
+              Kontaktformular auf unserer Website zu kontaktieren. Wir möchten
+              Sie jedoch darauf hinweisen, dass es aktuell zu erhöhten Anfragen
+              kommt, wodurch es zu etwas längeren Wartezeiten kommen kann. Wir
+              bitten Sie hierfür um Ihr Verständnis und Ihre Geduld. <br /> Eine
+              gute Zeit wünscht Euch, <br /> Euer BE-SCooTER Team
             </p>
           </AnimationOnScroll>
           <AnimationOnScroll

@@ -14,19 +14,17 @@ export function Hero() {
         />
       </div>
       <div className="video-content md:mt-15 my-3 space-y-2 md:w-[800px]">
-        <h1 className="break-word font-bold lg:text-2xl">
-          TU ES EINFACH - ER WIRD AUCH DICH BEGEISTERN!{' '}
+        <h1 className="break-word font-bold md:text-3xl lg:text-2xl">
+          TU ES EINFACH und lass dich begeistern!
         </h1>
         <h3 className="font-semi-bold text-lg tracking-wide lg:text-3xl">
-          <br />
-          Teste jetzt einen PREMIUM E-SCooTER aus unsere BE-SCooTER®
-          Verleihflotte. <br />
-          <br />
-          Faire Bedingungen und ein E-SCooTER der hält, was er verspricht. Ganz
-          egal ob für den nächsten Urlaub, für einen Test in deinem persönlichen
-          Alltag, als Alternative zum Auto oder einfach nur zum cruisen durch
-          unsere großartige Heimat - auch dich wird der elektrounterstütze
-          Tretroller begeistern.
+          Probiere jetzt einen PREMIUM E-Scooter aus unserer BE-SCooTER®
+          Verleihflotte aus <br /> <br />
+          Bei uns erwarten dich faire Bedingungen und ein E-Scooter, der hält,
+          was er verspricht. Ganz egal, ob du ihn für deinen nächsten Urlaub,
+          zum Testen im Alltag, als Alternative zum Auto oder einfach nur zum
+          Cruisen durch unsere großartige Heimat nutzen möchtest - der
+          elektrounterstützte Tretroller wird auch dich begeistern.
         </h3>
       </div>
       <a

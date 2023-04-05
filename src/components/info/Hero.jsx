@@ -1969,840 +1969,953 @@ export function Hero() {
               </div>
               <div className="flex flex-col justify-center overflow-auto">
                 <p>
-                  <br />
-                  1) Geltungsbereich <br />
-                  1.1 Diese Allgemeinen Geschäftsbedingungen (nachfolgend
-                  &quot;AGB&quot;) des Björn Seibert, handelnd unter
-                  &quot;BE-SCooTER® ...FUNsport <br />
-                  erFAHREN!&quot; (nachfolgend &quot;Verkäufer&quot;), gelten
-                  für alle Verträge über die Lieferung von Waren, die ein
-                  Verbraucher oder <br />
-                  Unternehmer (nachfolgend „Kunde“) mit dem Verkäufer
-                  hinsichtlich der vom Verkäufer in seinem Online-Shop
-                  dargestellten Waren <br />
-                  abschließt. Hiermit wird der Einbeziehung von eigenen
-                  Bedingungen des Kunden widersprochen, es sei denn, es ist
-                  etwas <br />
-                  anderes vereinbart.
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-                  1.2 Für Verträge über die Lieferung von Gutscheinen gelten
-                  diese AGB entsprechend, sofern insoweit nicht ausdrücklich
-                  etwas <br />
-                  Abweichendes geregelt ist.
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-                  1.3 Für Verträge über die Lieferung von Tickets gelten diese
-                  AGB entsprechend, sofern insoweit nicht ausdrücklich etwas{' '}
-                  <br />
-                  Abweichendes geregelt ist. Dabei regeln diese AGB lediglich
-                  den Verkauf von Tickets für bestimmte, in der
-                  Artikelbeschreibung <br />
-                  des Verkäufers näher bezeichnete Veranstaltungen und nicht die
-                  Durchführung dieser Veranstaltungen. Für die Durchführung{' '}
-                  <br />
-                  der Veranstaltungen gelten ausschließlich die gesetzlichen
-                  Bestimmungen im Verhältnis zwischen dem Kunden und dem <br />
-                  Veranstalter sowie ggf. hiervon abweichende Bedingungen des
-                  Veranstalters. Sofern der Verkäufer nicht zugleich auch
-                  Veranstalter
-                  <br /> ist, haftet er nicht für die ordnungsgemäße
-                  Durchführung der Veranstaltung, für die ausschließlich der{' '}
-                  <br />
-                  jeweilige Veranstalter verantwortlich ist.
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-                  1.4 Verbraucher im Sinne dieser AGB ist jede natürliche
-                  Person, die ein Rechtsgeschäft zu Zwecken abschließt, die
-                  überwiegend <br />
-                  weder ihrer gewerblichen noch ihrer selbständigen beruflichen
-                  Tätigkeit zugerechnet werden können. Unternehmer im Sinne{' '}
-                  <br />
-                  dieser AGB ist eine natürliche oder juristische Person oder
-                  eine rechtsfähige Personengesellschaft, die bei Abschluss
-                  eines
-                  <br /> Rechtsgeschäfts in Ausübung ihrer gewerblichen oder
-                  selbständigen beruflichen Tätigkeit handelt.
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-                  1.5 Gegenstand des Vertrages kann – je nach
-                  Produktbeschreibung des Verkäufers - sowohl der Bezug von
-                  Waren im Wege einer Einmallieferung als auch der Bezug von
-                  Waren im Wege einer dauerhaften Lieferung (nachfolgend
-                  „Abonnementvertrag“) sein. Beim Abonnementvertrag verpflichtet
-                  sich der Verkäufer, dem Kunden die vertraglich geschuldete
-                  Ware für die Dauer der vereinbarten Vertragslaufzeit in den
-                  vertraglich geschuldeten Zeitintervallen zu liefern.
-                  <br />
-                  <br />
-                  <br />
-                  2) Vertragsschluss
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-                  2.1 Die im Online-Shop des Verkäufers enthaltenen
-                  Produktbeschreibungen stellen keine verbindlichen Angebote
-                  seitens des <br />
-                  Verkäufers dar, sondern dienen zur Abgabe eines verbindlichen
-                  Angebots durch den Kunden.
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-                  2.2 Der Kunde kann das Angebot über das in den Online-Shop des
-                  Verkäufers integrierte Online-Bestellformular abgeben. Dabei
-                  gibt der Kunde, nachdem er die ausgewählten Waren in den
-                  virtuellen Warenkorb gelegt und den elektronischen
-                  Bestellprozess durchlaufen hat, durch Klicken des den
-                  Bestellvorgang abschließenden Buttons ein rechtlich
-                  verbindliches Vertragsangebot in Bezug auf die im Warenkorb
-                  enthaltenen Waren ab. Ferner kann der Kunde das Angebot auch
-                  telefonisch, per E-Mail oder postalisch gegenüber dem
-                  Verkäufer abgeben.
-                  <br />
-                  <br />
-                  <br />
-                  2.3 Der Verkäufer kann das Angebot des Kunden innerhalb von
-                  fünf Tagen annehmen,
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-                  indem er dem Kunden eine schriftliche Auftragsbestätigung oder
-                  eine Auftragsbestätigung in Textform (Fax oder E-Mail) <br />
-                  übermittelt, wobei insoweit der Zugang der Auftragsbestätigung
-                  beim Kunden maßgeblich ist, oder
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-                  indem er dem Kunden die bestellte Ware liefert, wobei insoweit
-                  der Zugang der Ware beim Kunden maßgeblich ist, oder
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-                  indem er den Kunden nach Abgabe von dessen Bestellung zur
-                  Zahlung auffordert.
-                  <br />
-                  <br />
-                  <br />
-                  Liegen mehrere der vorgenannten Alternativen vor, kommt der
-                  Vertrag in dem Zeitpunkt zustande, in dem eine der
-                  vorgenannten Alternativen zuerst eintritt. Die Frist zur
-                  Annahme des Angebots beginnt am Tag nach der Absendung des
-                  Angebots durch den Kunden zu laufen und endet mit dem Ablauf
-                  des fünften Tages, welcher auf die Absendung des Angebots
-                  folgt. Nimmt der Verkäufer das Angebot des Kunden innerhalb
-                  vorgenannter Frist nicht an, so gilt dies als Ablehnung des
-                  Angebots mit der Folge, dass der Kunde nicht mehr an seine
-                  Willenserklärung gebunden ist.
-                  <br />
-                  <br />
-                  <br />
-                  2.4 Bei Auswahl der Zahlungsart „PayPal Express“ erfolgt die
-                  Zahlungsabwicklung über den Zahlungsdienstleister PayPal
-                  (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal,
-                  L-2449 Luxembourg (im Folgenden: „PayPal“), unter Geltung der
-                  PayPal-Nutzungsbedingungen, einsehbar unter
-                  <NavLink href="https://www.paypal.com/de/webapps/mpp/ua/useragreement-full">
-                    user agreement paypal
-                  </NavLink>
-                  oder - falls der Kunde nicht über ein PayPal-Konto verfügt –
-                  unter Geltung der Bedingungen für Zahlungen ohne PayPal-Konto,
-                  einsehbar unter
-                  <NavLink href="https://www.paypal.com/de/webapps/mpp/ua/privacywax-full">
-                    paypal privacy
-                  </NavLink>
-                  Wählt der Kunde im Rahmen des Online-Bestellvorgangs „PayPal
-                  Express“ als Zahlungsart aus, erteilt er durch Klicken des den
-                  Bestellvorgang abschließenden Buttons zugleich auch einen
-                  Zahlungsauftrag an PayPal. Für diesen Fall erklärt der
-                  Verkäufer schon jetzt die Annahme des Angebots des Kunden in
-                  dem Zeitpunkt, in dem der Kunde durch Klicken des den
-                  Bestellvorgang abschließenden Buttons den Zahlungsvorgang
-                  auslöst.
-                  <br />
-                  <br />
-                  <br />
-                  2.5 Bei Auswahl der Zahlungsart &quot;Amazon Payments&quot;
-                  erfolgt die Zahlungsabwicklung über den Zahlungsdienstleister
-                  Amazon Payments Europe s.c.a., 38 avenue John F. Kennedy,
-                  L-1855 Luxemburg (im Folgenden: „Amazon“), unter Geltung der
-                  Amazon Payments Europe Nutzungsvereinbarung, einsehbar unter
-                  https://payments.amazon.de/help/201751590. Wählt der Kunde im
-                  Rahmen des Online-Bestellvorgangs „Amazon Payments“ als
-                  Zahlungsart aus, erteilt er durch Klicken des den
-                  Bestellvorgang abschließenden Buttons zugleich auch einen
-                  Zahlungsauftrag an Amazon. Für diesen Fall erklärt der
-                  Verkäufer schon jetzt die Annahme des Angebots des Kunden in
-                  dem Zeitpunkt, in dem der Kunde durch Klicken des den
-                  Bestellvorgang abschließenden Buttons den Zahlungsvorgang
-                  auslöst.
-                  <br />
-                  <br />
-                  <br />
-                  2.6 Bei der Abgabe eines Angebots über das
-                  Online-Bestellformular des Verkäufers wird der Vertragstext
-                  nach dem Vertragsschluss vom Verkäufer gespeichert und dem
-                  Kunden nach Absendung von dessen Bestellung in Textform (z. B.
-                  E-Mail, Fax oder Brief) übermittelt. Eine darüber
-                  hinausgehende Zugänglichmachung des Vertragstextes durch den
-                  Verkäufer erfolgt nicht. Sofern der Kunde vor Absendung seiner
-                  Bestellung ein Nutzerkonto im Online-Shop des Verkäufers
-                  eingerichtet hat, werden die Bestelldaten auf der Website des
-                  Verkäufers archiviert und können vom Kunden über dessen
-                  passwortgeschütztes Nutzerkonto unter Angabe der
-                  entsprechenden Login-Daten kostenlos abgerufen werden.
-                  <br />
-                  <br />
-                  2.7 Vor verbindlicher Abgabe der Bestellung über das
-                  Online-Bestellformular des Verkäufers kann der Kunde mögliche
-                  Eingabefehler durch aufmerksames Lesen der auf dem Bildschirm
-                  dargestellten Informationen erkennen. Ein wirksames
-                  technisches Mittel zur besseren Erkennung von Eingabefehlern
-                  kann dabei die Vergrößerungsfunktion des Browsers sein, mit
-                  deren Hilfe die Darstellung auf dem Bildschirm vergrößert
-                  wird. Seine Eingaben kann der Kunde im Rahmen des
-                  elektronischen Bestellprozesses so lange über die üblichen
-                  Tastatur- und Mausfunktionen korrigieren, bis er den den
-                  Bestellvorgang abschließenden Button anklickt.
-                  <br />
-                  <br />
-                  <br />
-                  2.8 Für den Vertragsschluss stehen die deutsche und die
-                  englische Sprache zur Verfügung.
-                  <br />
-                  <br />
-                  <br />
-                  2.9 Die Bestellabwicklung und Kontaktaufnahme finden in der
-                  Regel per E-Mail und automatisierter Bestellabwicklung statt.
-                  Der Kunde hat sicherzustellen, dass die von ihm zur
-                  Bestellabwicklung angegebene E-Mail-Adresse zutreffend ist, so
-                  dass unter dieser Adresse die vom Verkäufer versandten E-Mails
-                  empfangen werden können. Insbesondere hat der Kunde bei dem
-                  Einsatz von SPAM-Filtern sicherzustellen, dass alle vom
-                  Verkäufer oder von diesem mit der Bestellabwicklung
-                  beauftragten Dritten versandten E-Mails zugestellt werden
-                  können.
-                  <br />
-                  <br />
-                  <br />
-                  3) Widerrufsrecht
-                  <br />
-                  <br />
-                  <br />
-                  3.1 Verbrauchern steht grundsätzlich ein Widerrufsrecht zu.
-                  <br />
-                  <br />
-                  <br />
-                  3.2 Nähere Informationen zum Widerrufsrecht ergeben sich aus
-                  der Widerrufsbelehrung des Verkäufers.
-                  <br />
-                  <br />
-                  <br />
-                  3.3 Gemäß § 312g Abs. 2 Nr. 9 BGB besteht ein Widerrufsrecht,
-                  soweit nichts anderes vereinbart ist, nicht bei Verträgen zur
-                  Erbringung von Dienstleistungen im Zusammenhang mit
-                  Freizeitbetätigungen, wenn der Vertrag für die Erbringung
-                  einen spezifischen Termin oder Zeitraum vorsieht. Danach ist
-                  ein Widerrufsrecht auch bei Verträgen ausgeschlossen, die den
-                  Verkauf von Tickets für termingebundene
-                  Freizeitveranstaltungen zum Gegenstand haben.
-                  <br />
-                  <br />
-                  <br />
-                  4) Preise und Zahlungsbedingungen
-                  <br />
-                  <br />
-                  <br />
-                  4.1 Sofern sich aus der Produktbeschreibung des Verkäufers
-                  nichts anderes ergibt, handelt es sich bei den angegebenen
-                  Preisen um Gesamtpreise, die die gesetzliche Umsatzsteuer
-                  enthalten. Gegebenenfalls zusätzlich anfallende Liefer- und
-                  Versandkosten werden in der jeweiligen Produktbeschreibung
-                  gesondert angegeben.
-                  <br />
-                  <br />
-                  <br />
-                  4.2 Die Zahlungsmöglichkeit/en wird/werden dem Kunden im
-                  Online-Shop des Verkäufers mitgeteilt.
-                  <br />
-                  <br />
-                  4.3 Ist Vorauskasse per Banküberweisung vereinbart, ist die
-                  Zahlung sofort nach Vertragsabschluss fällig, sofern die
-                  Parteien keinen späteren Fälligkeitstermin vereinbart haben.
-                  <br />
-                  <br />
-                  <br />
-                  4.4 Bei Zahlung mittels einer von PayPal angebotenen
-                  Zahlungsart erfolgt die Zahlungsabwicklung über den
-                  Zahlungsdienstleister PayPal (Europe) S.à r.l. et Cie, S.C.A.,
-                  22-24 Boulevard Royal, L-2449 Luxembourg (im Folgenden:
-                  &quot;PayPal&quot;, unter Geltung der
-                  PayPal-Nutzungsbedingungen, einsehbar unter
-                  <NavLink href="https://www.paypal.com/de/webapps/mpp/ua/useragreement-full">
-                    paypal useragreement
-                  </NavLink>
-                  oder - falls der Kunde nicht über ein PayPal-Konto verfügt –
-                  unter Geltung der Bedingungen für Zahlungen ohne PayPal-Konto,
-                  einsehbar unter
-                  <NavLink href="https://www.paypal.com/de/webapps/mpp/ua/privacywax-full">
-                    paypal privacy
-                  </NavLink>
-                  .
-                  <br />
-                  <br />
-                  <br />
-                  4.5 Bei Auswahl der Zahlungsart „SOFORT“ erfolgt die
-                  Zahlungsabwicklung über den Zahlungsdienstleister SOFORT GmbH,
-                  Theresienhöhe 12, 80339 München (im Folgenden „SOFORT“). Um
-                  den Rechnungsbetrag über „SOFORT“ bezahlen zu können, muss der
-                  Kunde über ein für die Teilnahme an „SOFORT“ frei geschaltetes
-                  Online-Banking-Konto verfügen, sich beim Zahlungsvorgang
-                  entsprechend legitimieren und die Zahlungsanweisung gegenüber
-                  „SOFORT“ bestätigen. Die Zahlungstransaktion wird unmittelbar
-                  danach von „SOFORT“ durchgeführt und das Bankkonto des Kunden
-                  belastet. Nähere Informationen zur Zahlungsart „SOFORT“ kann
-                  der Kunde im Internet unter https://www.klarna.com/sofort/
-                  abrufen.
-                  <br />
-                  <br />
-                  <br />
-                  4.6 Bei Auswahl einer über den Zahlungsdienst &quot;Shopify
-                  Payments&quot; angebotenen Zahlungsarten erfolgt die
-                  Zahlungsabwicklung über den Zahlungsdienstleister Stripe
-                  Payments Europe Ltd., 1 Grand Canal Street Lower, Grand Canal
-                  Dock, Dublin, Irland (nachfolgend &quot;Stripe&quot;). Die
-                  einzelnen über Shopify Payments angebotenen Zahlungsarten
-                  werden dem Kunden im Online-Shop des Verkäufers mitgeteilt.
-                  Zur Abwicklung von Zahlungen kann sich Stripe weiterer
-                  Zahlungsdienste bedienen, für die ggf. besondere
-                  Zahlungsbedingungen gelten, auf die der Kunde ggf. gesondert
-                  hingewiesen wird. Weitere Informationen zu &quot;Shopify
-                  Payments&quot; sind im Internet unter
-                  https://www.shopify.com/legal/terms-payments-de abrufbar.
-                  <br />
-                  <br />
-                  <br />
-                  4.7 Bei Auswahl der Zahlungsart Rechnungskauf wird der
-                  Kaufpreis fällig, nachdem die Ware geliefert und in Rechnung
-                  gestellt wurde. In diesem Fall ist der Kaufpreis innerhalb von
-                  7(sieben) Tagen ab Erhalt der Rechnung ohne Abzug zu zahlen,
-                  sofern nichts anderes vereinbart ist. Der Verkäufer behält
-                  sich vor, die Zahlungsart Rechnungskauf nur bis zu einem
-                  bestimmten Bestellvolumen anzubieten und diese Zahlungsart bei
-                  Überschreitung des angegebenen Bestellvolumens abzulehnen. In
-                  diesem Fall wird der Verkäufer den Kunden in seinen
-                  Zahlungsinformationen im Online-Shop auf eine entsprechende
-                  Zahlungsbeschränkung hinweisen.
-                  <br />
-                  <br />
-                  <br />
-                  4.8 Bei Auswahl der Zahlungsart „PayPal Lastschrift“ zieht
-                  PayPal den Rechnungsbetrag nach Erteilung eines
-                  SEPA-Lastschriftmandats, nicht jedoch vor Ablauf der Frist für
-                  die Vorabinformation im Auftrag des Verkäufers vom Bankkonto
-                  des Kunden ein. Vorabinformation
-                  (&quot;Pre-Notification&quot;) ist jede Mitteilung (z.B.
-                  Rechnung, Police, Vertrag) an den Kunden, die eine Belastung
-                  mittels SEPA-Lastschrift ankündigt. Wird die Lastschrift
-                  mangels ausreichender Kontodeckung oder aufgrund der Angabe
-                  einer falschen Bankverbindung nicht eingelöst oder
-                  widerspricht der Kunde der Abbuchung, obwohl er hierzu nicht
-                  berechtigt ist, hat der Kunde die durch die Rückbuchung des
-                  jeweiligen Kreditinstituts entstehenden Gebühren zu tragen,
-                  wenn er dies zu vertreten hat.
-                  <br />
-                  <br />
-                  <br />
-                  5) Liefer- und Versandbedingungen
-                  <br />
-                  <br />
-                  <br />
-                  5.1 Die Lieferung von Waren erfolgt auf dem Versandweg an die
-                  vom Kunden angegebene Lieferanschrift, sofern nichts anderes
-                  vereinbart ist. Bei der Abwicklung der Transaktion ist die in
-                  der Bestellabwicklung des Verkäufers angegebene
-                  Lieferanschrift maßgeblich.
-                  <br />
-                  <br />
-                  <br />
-                  5.2 Bei Waren, die per Spedition geliefert werden, erfolgt die
-                  Lieferung &quot;frei Bordsteinkante&quot;, also bis zu der der
-                  Lieferadresse nächst gelegenen öffentlichen Bordsteinkante,
-                  sofern sich aus den Versandinformationen im Online-Shop des
-                  Verkäufers nichts anderes ergibt und sofern nichts anderes
-                  vereinbart ist.
-                  <br />
-                  <br />
-                  <br />
-                  5.3 Scheitert die Zustellung der Ware aus Gründen, die der
-                  Kunde zu vertreten hat, trägt der Kunde die dem Verkäufer
-                  hierdurch entstehenden angemessenen Kosten. Dies gilt im
-                  Hinblick auf die Kosten für die Hinsendung nicht, wenn der
-                  Kunde sein Widerrufsrecht wirksam ausübt. Für die
-                  Rücksendekosten gilt bei wirksamer Ausübung des
-                  Widerrufsrechts durch den Kunden die in der Widerrufsbelehrung
-                  des Verkäufers hierzu getroffene Regelung.
-                  <br />
-                  <br />
-                  <br />
-                  5.4 Bei Selbstabholung informiert der Verkäufer den Kunden
-                  zunächst per E-Mail darüber, dass die von ihm bestellte Ware
-                  zur Abholung bereit steht. Nach Erhalt dieser E-Mail kann der
-                  Kunde die Ware nach Absprache mit dem Verkäufer am Sitz des
-                  Verkäufers abholen. In diesem Fall werden keine Versandkosten
-                  berechnet.
-                  <br />
-                  <br />
-                  <br />
-                  5.5 Gutscheine werden dem Kunden wie folgt überlassen:
-                  <br />
-                  <br />
-                  <br />
-                  per E-Mail
-                  <br />
-                  <br />
-                  <br />
-                  postalisch
-                  <br />
-                  <br />
-                  <br />
-                  5.6 Tickets werden dem Kunden wie folgt überlassen:
-                  <br />
-                  <br />
-                  <br />
-                  per E-Mail
-                  <br />
-                  <br />
-                  <br />
-                  postalisch
-                  <br />
-                  <br />
-                  <br />
-                  6) Vertragsdauer und Vertragsbeendigung bei
-                  Abonnementverträgen
-                  <br />
-                  <br />
-                  <br />
-                  6.1 Abonnementverträge werden unbefristet geschlossen und
-                  können vom Kunden zum Ende eines jeden Monats gekündigt
-                  werden.
-                  <br />
-                  <br />
-                  <br />
-                  6.2 Das Recht zur außerordentlichen Kündigung aus wichtigem
-                  Grund bleibt unberührt. Ein wichtiger Grund liegt vor, wenn
-                  dem kündigenden Teil unter Berücksichtigung aller Umstände des
-                  Einzelfalls und unter Abwägung der beiderseitigen Interessen
-                  die Fortsetzung des Vertragsverhältnisses bis zur vereinbarten
-                  Beendigung oder bis zum Ablauf einer Kündigungsfrist nicht
-                  zugemutet werden kann.
-                  <br />
-                  <br />
-                  <br />
-                  6.3 Kündigungen haben schriftlich oder in Textform (z. B. per
-                  E-Mail) zu erfolgen.
-                  <br />
-                  <br />
-                  <br />
-                  7) Eigentumsvorbehalt
-                  <br />
-                  <br />
-                  <br />
-                  Tritt der Verkäufer in Vorleistung, behält er sich bis zur
-                  vollständigen Bezahlung des geschuldeten Kaufpreises das
-                  Eigentum an der gelieferten Ware vor.
-                  <br />
-                  <br />
-                  <br />
-                  8) Mängelhaftung (Gewährleistung)
-                  <br />
-                  <br />
-                  <br />
-                  8.1 Ist die Kaufsache mangelhaft, gelten die Vorschriften der
-                  gesetzlichen Mängelhaftung.
-                  <br />
-                  <br />
-                  <br />
-                  8.2 Abweichend hiervon gilt bei gebrauchten Waren:
-                  Mängelansprüche sind ausgeschlossen, wenn der Mangel erst nach
-                  Ablauf eines Jahres ab Ablieferung der Ware auftritt. Mängel,
-                  die innerhalb eines Jahres ab Ablieferung der Ware auftreten,
-                  können innerhalb der gesetzlichen Verjährungsfrist geltend
-                  gemacht werden. Die Verkürzung der Haftungsdauer auf ein Jahr
-                  gilt jedoch nicht
-                  <br />
-                  <br />
-                  <br />
-                  für Sachen, die entsprechend ihrer üblichen Verwendungsweise
-                  für ein Bauwerk verwendet worden sind und dessen
-                  Mangelhaftigkeit verursacht haben,
-                  <br />
-                  <br />
-                  <br />
-                  für Schadensersatz- und Aufwendungsersatzansprüche des Kunden,
-                  sowie
-                  <br />
-                  <br />
-                  <br />
-                  für den Fall, dass der Verkäufer den Mangel arglistig
-                  verschwiegen hat.
-                  <br />
-                  <br />
-                  <br />
-                  8.3 Der Kunde wird gebeten, angelieferte Waren mit
-                  offensichtlichen Transportschäden bei dem Zusteller zu
-                  reklamieren und den Verkäufer hiervon in Kenntnis zu setzen.
-                  Kommt der Kunde dem nicht nach, hat dies keinerlei
-                  Auswirkungen auf seine gesetzlichen oder vertraglichen
-                  Mängelansprüche.
-                  <br />
-                  <br />
-                  <br />
-                  9) Besondere Bedingungen für die Verarbeitung von Waren nach
-                  bestimmten Vorgaben des Kunden
-                  <br />
-                  <br />
-                  <br />
-                  9.1 Schuldet der Verkäufer nach dem Inhalt des Vertrages neben
-                  der Warenlieferung auch die Verarbeitung der Ware nach
-                  bestimmten Vorgaben des Kunden, hat der Kunde dem Betreiber
-                  alle für die Verarbeitung erforderlichen Inhalte wie Texte,
-                  Bilder oder Grafiken in den vom Betreiber vorgegebenen
-                  Dateiformaten, Formatierungen, Bild- und Dateigrößen zur
-                  Verfügung zu stellen und ihm die hierfür erforderlichen
-                  Nutzungsrechte einzuräumen. Für die Beschaffung und den
-                  Rechteerwerb an diesen Inhalten ist allein der Kunde
-                  verantwortlich. Der Kunde erklärt und übernimmt die
-                  Verantwortung dafür, dass er das Recht besitzt, die dem
-                  Verkäufer überlassenen Inhalte zu nutzen. Er trägt
-                  insbesondere dafür Sorge, dass hierdurch keine Rechte Dritter
-                  verletzt werden, insbesondere Urheber-, Marken- und
-                  Persönlichkeitsrechte.
-                  <br />
-                  <br />
-                  <br />
-                  9.2 Der Kunde stellt den Verkäufer von Ansprüchen Dritter
-                  frei, die diese im Zusammenhang mit einer Verletzung ihrer
-                  Rechte durch die vertragsgemäße Nutzung der Inhalte des Kunden
-                  durch den Verkäufer diesem gegenüber geltend machen können.
-                  Der Kunde übernimmt hierbei auch die angemessenen Kosten der
-                  notwendigen Rechtsverteidigung einschließlich aller Gerichts-
-                  und Anwaltskosten in gesetzlicher Höhe. Dies gilt nicht, wenn
-                  die Rechtsverletzung vom Kunden nicht zu vertreten ist. Der
-                  Kunde ist verpflichtet, dem Verkäufer im Falle einer
-                  Inanspruchnahme durch Dritte unverzüglich, wahrheitsgemäß und
-                  vollständig alle Informationen zur Verfügung zu stellen, die
-                  für die Prüfung der Ansprüche und eine Verteidigung
-                  erforderlich sind.
-                  <br />
-                  <br />
-                  <br />
-                  9.3 Der Verkäufer behält sich vor, Verarbeitungsaufträge
-                  abzulehnen, wenn die vom Kunden hierfür überlassenen Inhalte
-                  gegen gesetzliche oder behördliche Verbote oder gegen die
-                  guten Sitten verstoßen. Dies gilt insbesondere bei Überlassung
-                  verfassungsfeindlicher, rassistischer, fremdenfeindlicher,
-                  diskriminierender, beleidigender, Jugend gefährdender und/oder
-                  Gewalt verherrlichender Inhalte.
-                  <br />
-                  <br />
-                  <br />
-                  10) Besondere Bedingungen für Montage-/Einbauleistungen
-                  <br />
-                  <br />
-                  <br />
-                  Schuldet der Verkäufer nach dem Inhalt des Vertrages neben der
-                  Warenlieferung auch die Montage bzw. den Einbau der Ware beim
-                  Kunden sowie ggf. entsprechende Vorbereitungsmaßnahmen (z. B.
-                  Aufmaß), so gilt hierfür Folgendes:
-                  <br />
-                  <br />
-                  <br />
-                  10.1 Der Verkäufer erbringt seine Leistungen nach seiner Wahl
-                  in eigener Person oder durch qualifiziertes, von ihm
-                  ausgewähltes Personal. Dabei kann sich der Verkäufer auch der
-                  Leistungen Dritter (Subunternehmer) bedienen, die in seinem
-                  Auftrag tätig werden. Sofern sich aus der
-                  Leistungsbeschreibung des Verkäufers nichts anderes ergibt,
-                  hat der Kunde keinen Anspruch auf Auswahl einer bestimmten
-                  Person zur Durchführung der gewünschten Dienstleistung.
-                  <br />
-                  <br />
-                  <br />
-                  10.2 Der Kunde hat dem Verkäufer die für die Erbringung der
-                  geschuldeten Dienstleistung erforderlichen Informationen
-                  vollständig und wahrheitsgemäß zur Verfügung zu stellen,
-                  sofern deren Beschaffung nach dem Inhalt des Vertrages nicht
-                  in den Pflichtenkreis des Verkäufers fällt.
-                  <br />
-                  <br />
-                  <br />
-                  10.3 Der Verkäufer wird sich nach Vertragsschluss mit dem
-                  Kunden in Verbindung setzen, um mit diesem einen Termin für
-                  die geschuldete Leistung zu vereinbaren. Der Kunde trägt dafür
-                  Sorge, dass der Verkäufer bzw. das von diesem beauftragte
-                  Personal zum vereinbarten Termin Zugang zu den betreffenden
-                  Einrichtungen des Kunden hat.
-                  <br />
-                  <br />
-                  <br />
-                  10.4 Die Gefahr des zufälligen Untergangs und der zufälligen
-                  Verschlechterung der verkauften Ware geht erst mit der
-                  Beendigung der Montagearbeiten und der Übergabe an den Kunden
-                  auf den Kunden über.
-                  <br />
-                  <br />
-                  <br />
-                  11) Besondere Bedingungen für Reparaturleistungen
-                  <br />
-                  <br />
-                  <br />
-                  Schuldet der Verkäufer nach dem Inhalt des Vertrages die
-                  Reparatur einer Sache des Kunden, so gilt hierfür Folgendes:
-                  <br />
-                  <br />
-                  <br />
-                  11.1 Reparaturleistungen werden am Sitz des Verkäufers
-                  erbracht.
-                  <br />
-                  <br />
-                  <br />
-                  11.2 Der Verkäufer erbringt seine Leistungen nach seiner Wahl
-                  in eigener Person oder durch qualifiziertes, von ihm
-                  ausgewähltes Personal. Dabei kann sich der Verkäufer auch der
-                  Leistungen Dritter (Subunternehmer) bedienen, die in seinem
-                  Auftrag tätig werden. Sofern sich aus der
-                  Leistungsbeschreibung des Verkäufers nichts anderes ergibt,
-                  hat der Kunde keinen Anspruch auf Auswahl einer bestimmten
-                  Person zur Durchführung der gewünschten Dienstleistung.
-                  <br />
-                  <br />
-                  <br />
-                  11.3 Der Kunde hat dem Verkäufer alle für die Reparatur der
-                  Sache erforderlichen Informationen zur Verfügung zu stellen,
-                  sofern deren Beschaffung nach dem Inhalt des Vertrages nicht
-                  in den Pflichtenkreis des Verkäufers fällt. Insbesondere hat
-                  der Kunde dem Verkäufer eine umfassende Fehlerbeschreibung zu
-                  übermitteln und ihm sämtliche Umstände mitzuteilen, die
-                  ursächlich für den festgestellten Fehler sein können.
-                  <br />
-                  <br />
-                  <br />
-                  11.4 Sofern nicht anders vereinbart, hat der Kunde die zu
-                  reparierende Sache auf eigene Kosten und Gefahr an den Sitz
-                  des Verkäufers zu versenden. Der Verkäufer empfiehlt dem
-                  Kunden hierfür den Abschluss einer Transportversicherung.
-                  Ferner empfiehlt der Verkäufer dem Kunden, die Sache in einer
-                  geeigneten Transportverpackung zu versenden, um das Risiko von
-                  Transportschäden zu reduzieren und den Inhalt der Verpackung
-                  zu verbergen. Über offensichtliche Transportschäden wird der
-                  Verkäufer den Kunden unverzüglich informieren, damit dieser
-                  seine ggf. gegenüber dem Transporteur bestehenden Rechte
-                  geltend machen kann.
-                  <br />
-                  <br />
-                  <br />
-                  11.5 Die Rücksendung der Sache erfolgt auf Kosten des Kunden.
-                  Die Gefahr des zufälligen Untergangs und der zufälligen
-                  Verschlechterung der Sache geht mit der Übergabe der Sache an
-                  eine geeignete Transportperson am Geschäftssitz des Verkäufers
-                  auf den Kunden über. Auf Wunsch des Kunden wird der Verkäufer
-                  für die Sache eine Transportversicherung abschließen.
-                  <br />
-                  <br />
-                  <br />
-                  11.6 Der Kunde kann die zu reparierende Sache auch selbst an
-                  den Sitz des Verkäufers verbringen und wieder von diesem
-                  abholen, wenn sich dies aus der Leistungsbeschreibung des
-                  Verkäufers ergibt oder wenn die Parteien hierüber eine
-                  entsprechende Vereinbarung getroffen haben. In diesem Fall
-                  gelten die vorstehenden Regelungen zur Kosten- und
-                  Gefahrtragung bei Versand und Rückversand der Sache
-                  entsprechend.
-                  <br />
-                  <br />
-                  <br />
-                  11.7 Die vorgenannten Regelungen beschränken nicht die
-                  gesetzlichen Mängelrechte des Kunden im Falle des Kaufs einer
-                  Ware vom Verkäufer.
-                  <br />
-                  <br />
-                  <br />
-                  11.8 Für Mängel der erbrachten Reparaturleistung haftet der
-                  Verkäufer nach den Vorschriften der gesetzlichen
-                  Mängelhaftung.
-                  <br />
-                  <br />
-                  <br />
-                  12) Einlösung von Aktionsgutscheinen
-                  <br />
-                  <br />
-                  <br />
-                  12.1 Gutscheine, die vom Verkäufer im Rahmen von Werbeaktionen
-                  mit einer bestimmten Gültigkeitsdauer unentgeltlich ausgegeben
-                  werden und die vom Kunden nicht käuflich erworben werden
-                  können (nachfolgend &quot;Aktionsgutscheine&quot;), können nur
-                  im Online-Shop des Verkäufers und nur im angegebenen Zeitraum
-                  eingelöst werden.
-                  <br />
-                  <br />
-                  <br />
-                  12.2 Einzelne Produkte können von der Gutscheinaktion
-                  ausgeschlossen sein, sofern sich eine entsprechende
-                  Einschränkung aus dem Inhalt des Aktionsgutscheins ergibt.
-                  <br />
-                  <br />
-                  <br />
-                  12.3 Aktionsgutscheine können nur vor Abschluss des
-                  Bestellvorgangs eingelöst werden. Eine nachträgliche
-                  Verrechnung ist nicht möglich.
-                  <br />
-                  <br />
-                  <br />
-                  12.4 Pro Bestellung kann immer nur ein Aktionsgutschein
-                  eingelöst werden.
-                  <br />
-                  <br />
-                  <br />
-                  12.5 Der Warenwert muss mindestens dem Betrag des
-                  Aktionsgutscheins entsprechen. Etwaiges Restguthaben wird vom
-                  Verkäufer nicht erstattet.
-                  <br />
-                  <br />
-                  <br />
-                  12.6 Reicht der Wert des Aktionsgutscheins zur Deckung der
-                  Bestellung nicht aus, kann zur Begleichung des
-                  Differenzbetrages eine der übrigen vom Verkäufer angebotenen
-                  Zahlungsarten gewählt werden.
-                  <br />
-                  <br />
-                  <br />
-                  12.7 Das Guthaben eines Aktionsgutscheins wird weder in
-                  Bargeld ausgezahlt noch verzinst.
-                  <br />
-                  <br />
-                  <br />
-                  12.8 Der Aktionsgutschein wird nicht erstattet, wenn der Kunde
-                  die mit dem Aktionsgutschein ganz oder teilweise bezahlte Ware
-                  im Rahmen seines gesetzlichen Widerrufsrechts zurückgibt.
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-                  12.9 Der Aktionsgutschein ist übertragbar. Der Verkäufer kann
-                  mit befreiender Wirkung an den jeweiligen Inhaber, der den
-                  Aktionsgutschein im Online-Shop des Verkäufers einlöst,
-                  leisten. Dies gilt nicht, wenn der Verkäufer Kenntnis oder
-                  grob fahrlässige Unkenntnis von der Nichtberechtigung, der
-                  Geschäftsunfähigkeit oder der fehlenden
-                  Vertretungsberechtigung des jeweiligen Inhabers hat.
-                  <br />
-                  <br />
-                  <br />
-                  13) Einlösung von Geschenkgutscheinen
-                  <br />
-                  <br />
-                  <br />
-                  13.1 Gutscheine, die über den Online-Shop des Verkäufers
-                  käuflich erworben werden können (nachfolgend
-                  &quot;Geschenkgutscheine&quot;), können nur im Online-Shop des
-                  Verkäufers eingelöst werden, sofern sich aus dem Gutschein
-                  nichts anderes ergibt.
-                  <br />
-                  <br />
-                  <br />
-                  13.2 Geschenkgutscheine und Restguthaben von
-                  Geschenkgutscheinen sind bis zum Ende des dritten Jahres nach
-                  dem Jahr des Gutscheinkaufs einlösbar. Restguthaben werden dem
-                  Kunden bis zum Ablaufdatum gutgeschrieben.
-                  <br />
-                  <br />
-                  <br />
-                  13.3 Geschenkgutscheine können nur vor Abschluss des
-                  Bestellvorgangs eingelöst werden. Eine nachträgliche
-                  Verrechnung ist nicht möglich.
-                  <br />
-                  <br />
-                  <br />
-                  13.4 Pro Bestellung kann immer nur ein Geschenkgutschein
-                  eingelöst werden.
-                  <br />
-                  <br />
-                  <br />
-                  13.5 Geschenkgutscheine können nur für den Kauf von Waren und
-                  nicht für den Kauf von weiteren Geschenkgutscheinen verwendet
-                  werden.
-                  <br />
-                  <br />
-                  <br />
-                  13.6 Reicht der Wert des Geschenkgutscheins zur Deckung der
-                  Bestellung nicht aus, kann zur Begleichung des
-                  Differenzbetrages eine der übrigen vom Verkäufer angebotenen
-                  Zahlungsarten gewählt werden.
-                  <br />
-                  <br />
-                  <br />
-                  13.7 Das Guthaben eines Geschenkgutscheins wird weder in
-                  Bargeld ausgezahlt noch verzinst.
-                  <br />
-                  <br />
-                  <br />
-                  13.8 Der Geschenkgutschein ist übertragbar. Der Verkäufer kann
-                  mit befreiender Wirkung an den jeweiligen Inhaber, der den
-                  Geschenkgutschein im Online-Shop des Verkäufers einlöst,
-                  leisten. Dies gilt nicht, wenn der Verkäufer Kenntnis oder
-                  grob fahrlässige Unkenntnis von der Nichtberechtigung, der
-                  Geschäftsunfähigkeit oder der fehlenden
-                  Vertretungsberechtigung des jeweiligen Inhabers hat.
-                  <br />
-                  <br />
-                  <br />
-                  14) Anwendbares Recht
-                  <br />
-                  <br />
-                  <br />
-                  Für sämtliche Rechtsbeziehungen der Parteien gilt das Recht
-                  der Bundesrepublik Deutschland unter Ausschluss der Gesetze
-                  über den internationalen Kauf beweglicher Waren. Bei
-                  Verbrauchern gilt diese Rechtswahl nur insoweit, als nicht der
-                  gewährte Schutz durch zwingende Bestimmungen des Rechts des
-                  Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt
-                  hat, entzogen wird.
-                  <br />
-                  <br />
-                  <br />
-                  15) Alternative Streitbeilegung
-                  <br />
-                  <br />
-                  <br />
-                  15.1 Die EU-Kommission stellt im Internet unter folgendem Link
-                  eine Plattform zur Online-Streitbeilegung bereit:
-                  https://ec.europa.eu/consumers/odr
-                  <br />
-                  <br />
-                  <br />
-                  Diese Plattform dient als Anlaufstelle zur außergerichtlichen
-                  Beilegung von Streitigkeiten aus Online-Kauf- oder
-                  Dienstleistungsverträgen, an denen ein Verbraucher beteiligt
-                  ist.
-                  <br />
-                  <br />
-                  <br />
-                  15.2 Der Verkäufer ist zur Teilnahme an einem
-                  Streitbeilegungsverfahren vor einer
-                  Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
+                  <h1>
+                    Allgemeine Gesch&auml;ftsbedingungen mit Kundeninformationen
+                  </h1>
+                  <h2>Inhaltsverzeichnis</h2>
+                  <ol>
+                    <li>Geltungsbereich</li>
+                    <li>Vertragsschluss</li>
+                    <li>Widerrufsrecht</li>
+                    <li>Preise und Zahlungsbedingungen</li>
+                    <li>Liefer- und Versandbedingungen</li>
+                    <li>
+                      Vertragsdauer und Vertragsbeendigung bei
+                      Abonnementvertr&auml;gen
+                    </li>
+                    <li>Eigentumsvorbehalt</li>
+                    <li>M&auml;ngelhaftung (Gew&auml;hrleistung)</li>
+                    <li>
+                      Besondere Bedingungen f&uuml;r die Verarbeitung von Waren
+                      nach bestimmten Vorgaben des Kunden
+                    </li>
+                    <li>
+                      Besondere Bedingungen f&uuml;r Montage-/Einbauleistungen
+                    </li>
+                    <li>Besondere Bedingungen f&uuml;r Reparaturleistungen</li>
+                    <li>Einl&ouml;sung von Aktionsgutscheinen</li>
+                    <li>Einl&ouml;sung von Geschenkgutscheinen</li>
+                    <li>Anwendbares Recht</li>
+                    <li>Verhaltenskodex</li>
+                    <li>Alternative Streitbeilegung</li>
+                  </ol>
+                  <h2>1) Geltungsbereich</h2>
+                  <p>
+                    <b>1.1</b>&nbsp;Diese Allgemeinen Gesch&auml;ftsbedingungen
+                    (nachfolgend &quot;AGB&quot;) des Bj&ouml;rn Seibert,
+                    handelnd unter &quot;BE-SCooTER&reg; ...FUNsport
+                    erFAHREN!&quot; (nachfolgend &quot;Verk&auml;ufer&quot;),
+                    gelten f&uuml;r alle Vertr&auml;ge zur Lieferung von Waren,
+                    die ein Verbraucher oder Unternehmer (nachfolgend
+                    &bdquo;Kunde&#8220;) mit dem Verk&auml;ufer hinsichtlich der
+                    vom Verk&auml;ufer in seinem Online-Shop dargestellten Waren
+                    abschlie&szlig;t. Hiermit wird der Einbeziehung von eigenen
+                    Bedingungen des Kunden widersprochen, es sei denn, es ist
+                    etwas anderes vereinbart.
+                  </p>
+                  <p>
+                    <b>1.2</b>&nbsp;F&uuml;r Vertr&auml;ge zur Lieferung von
+                    Gutscheinen gelten diese AGB entsprechend, sofern insoweit
+                    nicht etwas Abweichendes geregelt ist.
+                  </p>
+                  <p>
+                    <b>1.3</b>&nbsp;F&uuml;r Vertr&auml;ge zur Lieferung von
+                    Tickets gelten diese AGB entsprechend, sofern insoweit nicht
+                    ausdr&uuml;cklich etwas Abweichendes geregelt ist. Dabei
+                    regeln diese AGB lediglich den Verkauf von Tickets f&uuml;r
+                    bestimmte, in der Artikelbeschreibung des Verk&auml;ufers
+                    n&auml;her bezeichnete Veranstaltungen und nicht die
+                    Durchf&uuml;hrung dieser Veranstaltungen. F&uuml;r die
+                    Durchf&uuml;hrung der Veranstaltungen gelten
+                    ausschlie&szlig;lich die gesetzlichen Bestimmungen im
+                    Verh&auml;ltnis zwischen dem Teilnehmer und dem Veranstalter
+                    sowie ggf. hiervon abweichende Bedingungen des
+                    Veranstalters. Sofern der Verk&auml;ufer nicht zugleich auch
+                    Veranstalter ist, haftet er nicht f&uuml;r die
+                    ordnungsgem&auml;&szlig;e Durchf&uuml;hrung der
+                    Veranstaltung, f&uuml;r die ausschlie&szlig;lich der
+                    jeweilige Veranstalter verantwortlich ist.
+                  </p>
+                  <p>
+                    <b>1.4</b>&nbsp;Verbraucher im Sinne dieser AGB ist jede
+                    nat&uuml;rliche Person, die ein Rechtsgesch&auml;ft zu
+                    Zwecken abschlie&szlig;t, die &uuml;berwiegend weder ihrer
+                    gewerblichen noch ihrer selbst&auml;ndigen beruflichen
+                    T&auml;tigkeit zugerechnet werden k&ouml;nnen.
+                  </p>
+                  <p>
+                    <b>1.5</b>&nbsp;Unternehmer im Sinne dieser AGB ist eine
+                    nat&uuml;rliche oder juristische Person oder eine
+                    rechtsf&auml;hige Personengesellschaft, die bei Abschluss
+                    eines Rechtsgesch&auml;fts in Aus&uuml;bung ihrer
+                    gewerblichen oder selbst&auml;ndigen beruflichen
+                    T&auml;tigkeit handelt.
+                  </p>
+                  <p>
+                    <b>1.6</b>&nbsp;Gegenstand des Vertrages kann &ndash; je
+                    nach Produktbeschreibung des Verk&auml;ufers - sowohl der
+                    Bezug von Waren im Wege einer Einmallieferung als auch der
+                    Bezug von Waren im Wege einer dauerhaften Lieferung
+                    (nachfolgend &bdquo;Abonnementvertrag&#8220;) sein. Beim
+                    Abonnementvertrag verpflichtet sich der Verk&auml;ufer, dem
+                    Kunden die vertraglich geschuldete Ware f&uuml;r die Dauer
+                    der vereinbarten Vertragslaufzeit in den vertraglich
+                    geschuldeten Zeitintervallen zu liefern.
+                  </p>
+                  <h2>2) Vertragsschluss</h2>
+                  <p>
+                    <b>2.1</b>&nbsp;Die im Online-Shop des Verk&auml;ufers
+                    enthaltenen Produktbeschreibungen stellen keine
+                    verbindlichen Angebote seitens des Verk&auml;ufers dar,
+                    sondern dienen zur Abgabe eines verbindlichen Angebots durch
+                    den Kunden.
+                  </p>
+                  <p>
+                    <b>2.2</b>&nbsp;Der Kunde kann das Angebot &uuml;ber das in
+                    den Online-Shop des Verk&auml;ufers integrierte
+                    Online-Bestellformular abgeben. Dabei gibt der Kunde,
+                    nachdem er die ausgew&auml;hlten Waren in den virtuellen
+                    Warenkorb gelegt und den elektronischen Bestellprozess
+                    durchlaufen hat, durch Klicken des den Bestellvorgang
+                    abschlie&szlig;enden Buttons ein rechtlich verbindliches
+                    Vertragsangebot in Bezug auf die im Warenkorb enthaltenen
+                    Waren ab. Ferner kann der Kunde das Angebot auch per E-Mail,
+                    postalisch oder telefonisch gegen&uuml;ber dem
+                    Verk&auml;ufer abgeben.
+                  </p>
+                  <p>
+                    <b>2.3</b>&nbsp;Der Verk&auml;ufer kann das Angebot des
+                    Kunden innerhalb von f&uuml;nf Tagen annehmen,
+                  </p>
+                  <ul>
+                    <li>
+                      indem er dem Kunden eine schriftliche
+                      Auftragsbest&auml;tigung oder eine
+                      Auftragsbest&auml;tigung in Textform (Fax oder E-Mail)
+                      &uuml;bermittelt, wobei insoweit der Zugang der
+                      Auftragsbest&auml;tigung beim Kunden ma&szlig;geblich ist,
+                      oder
+                    </li>
+                    <li>
+                      indem er dem Kunden die bestellte Ware liefert, wobei
+                      insoweit der Zugang der Ware beim Kunden ma&szlig;geblich
+                      ist, oder
+                    </li>
+                    <li>
+                      indem er den Kunden nach Abgabe von dessen Bestellung zur
+                      Zahlung auffordert.
+                    </li>
+                  </ul>
+                  <p>
+                    Liegen mehrere der vorgenannten Alternativen vor, kommt der
+                    Vertrag in dem Zeitpunkt zustande, in dem eine der
+                    vorgenannten Alternativen zuerst eintritt. Die Frist zur
+                    Annahme des Angebots beginnt am Tag nach der Absendung des
+                    Angebots durch den Kunden zu laufen und endet mit dem Ablauf
+                    des f&uuml;nften Tages, welcher auf die Absendung des
+                    Angebots folgt. Nimmt der Verk&auml;ufer das Angebot des
+                    Kunden innerhalb vorgenannter Frist nicht an, so gilt dies
+                    als Ablehnung des Angebots mit der Folge, dass der Kunde
+                    nicht mehr an seine Willenserkl&auml;rung gebunden ist.
+                  </p>
+                  <p>
+                    <b>2.4</b>&nbsp;Bei Auswahl einer von PayPal angebotenen
+                    Zahlungsart erfolgt die Zahlungsabwicklung &uuml;ber den
+                    Zahlungsdienstleister PayPal (Europe) S.&agrave; r.l. et
+                    Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxemburg (im
+                    Folgenden: &bdquo;PayPal&#8220;), unter Geltung der
+                    PayPal-Nutzungsbedingungen, einsehbar unter{' '}
+                    <a
+                      href="https://www.paypal.com/de/webapps/mpp/ua/useragreement-full"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      https://www.paypal.com /de /webapps /mpp /ua
+                      /useragreement-full
+                    </a>{' '}
+                    oder - falls der Kunde nicht &uuml;ber ein PayPal-Konto
+                    verf&uuml;gt &ndash; unter Geltung der Bedingungen f&uuml;r
+                    Zahlungen ohne PayPal-Konto, einsehbar unter{' '}
+                    <a
+                      href="https://www.paypal.com/de/webapps/mpp/ua/privacywax-full"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      https://www.paypal.com /de /webapps /mpp /ua
+                      /privacywax-full
+                    </a>
+                    . Zahlt der Kunde mittels einer im Online-Bestellvorgang
+                    ausw&auml;hlbaren von PayPal angebotenen Zahlungsart,
+                    erkl&auml;rt der Verk&auml;ufer schon jetzt die Annahme des
+                    Angebots des Kunden in dem Zeitpunkt, in dem der Kunde den
+                    Button anklickt, welcher den Bestellvorgang
+                    abschlie&szlig;t.
+                  </p>
+                  <p>
+                    <b>2.5</b>&nbsp;Bei Auswahl der Zahlungsart &quot;Amazon
+                    Payments&quot; erfolgt die Zahlungsabwicklung &uuml;ber den
+                    Zahlungsdienstleister Amazon Payments Europe s.c.a., 38
+                    avenue John F. Kennedy, L-1855 Luxemburg (im Folgenden:
+                    &bdquo;Amazon&#8220;), unter Geltung der Amazon Payments
+                    Europe Nutzungsvereinbarung, einsehbar unter{' '}
+                    <a
+                      href="https://payments.amazon.de/help/201751590"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      https://payments.amazon.de /help /201751590
+                    </a>
+                    . W&auml;hlt der Kunde im Rahmen des Online-Bestellvorgangs
+                    &bdquo;Amazon Payments&#8220; als Zahlungsart aus, erteilt
+                    er durch Klicken des den Bestellvorgang abschlie&szlig;enden
+                    Buttons zugleich auch einen Zahlungsauftrag an Amazon.
+                    F&uuml;r diesen Fall erkl&auml;rt der Verk&auml;ufer schon
+                    jetzt die Annahme des Angebots des Kunden in dem Zeitpunkt,
+                    in dem der Kunde durch Klicken des den Bestellvorgang
+                    abschlie&szlig;enden Buttons den Zahlungsvorgang
+                    ausl&ouml;st.
+                  </p>
+                  <p>
+                    <b>2.6</b>&nbsp;Bei der Abgabe eines Angebots &uuml;ber das
+                    Online-Bestellformular des Verk&auml;ufers wird der
+                    Vertragstext nach dem Vertragsschluss vom Verk&auml;ufer
+                    gespeichert und dem Kunden nach Absendung von dessen
+                    Bestellung in Textform (z. B. E-Mail, Fax oder Brief)
+                    &uuml;bermittelt. Eine dar&uuml;ber hinausgehende
+                    Zug&auml;nglichmachung des Vertragstextes durch den
+                    Verk&auml;ufer erfolgt nicht. Sofern der Kunde vor Absendung
+                    seiner Bestellung ein Nutzerkonto im Online-Shop des
+                    Verk&auml;ufers eingerichtet hat, werden die Bestelldaten
+                    auf der Website des Verk&auml;ufers archiviert und
+                    k&ouml;nnen vom Kunden &uuml;ber dessen
+                    passwortgesch&uuml;tztes Nutzerkonto unter Angabe der
+                    entsprechenden Login-Daten kostenlos abgerufen werden.
+                  </p>
+                  <p>
+                    <b>2.7</b>&nbsp;Vor verbindlicher Abgabe der Bestellung
+                    &uuml;ber das Online-Bestellformular des Verk&auml;ufers
+                    kann der Kunde m&ouml;gliche Eingabefehler durch
+                    aufmerksames Lesen der auf dem Bildschirm dargestellten
+                    Informationen erkennen. Ein wirksames technisches Mittel zur
+                    besseren Erkennung von Eingabefehlern kann dabei die
+                    Vergr&ouml;&szlig;erungsfunktion des Browsers sein, mit
+                    deren Hilfe die Darstellung auf dem Bildschirm
+                    vergr&ouml;&szlig;ert wird. Seine Eingaben kann der Kunde im
+                    Rahmen des elektronischen Bestellprozesses so lange
+                    &uuml;ber die &uuml;blichen Tastatur- und Mausfunktionen
+                    korrigieren, bis er den Button anklickt, welcher den
+                    Bestellvorgang abschlie&szlig;t.
+                  </p>
+                  <p>
+                    <b>2.8</b>&nbsp;F&uuml;r den Vertragsschluss stehen die
+                    deutsche und die englische Sprache zur Verf&uuml;gung.
+                  </p>
+                  <p>
+                    <b>2.9</b>&nbsp;Die Bestellabwicklung und Kontaktaufnahme
+                    finden in der Regel per E-Mail und automatisierter
+                    Bestellabwicklung statt. Der Kunde hat sicherzustellen, dass
+                    die von ihm zur Bestellabwicklung angegebene E-Mail-Adresse
+                    zutreffend ist, so dass unter dieser Adresse die vom
+                    Verk&auml;ufer versandten E-Mails empfangen werden
+                    k&ouml;nnen. Insbesondere hat der Kunde bei dem Einsatz von
+                    SPAM-Filtern sicherzustellen, dass alle vom Verk&auml;ufer
+                    oder von diesem mit der Bestellabwicklung beauftragten
+                    Dritten versandten E-Mails zugestellt werden k&ouml;nnen.
+                  </p>
+                  <h2>3) Widerrufsrecht</h2>
+                  <p>
+                    <b>3.1</b>&nbsp;Verbrauchern steht grunds&auml;tzlich ein
+                    Widerrufsrecht zu.
+                  </p>
+                  <p>
+                    <b>3.2</b>&nbsp;N&auml;here Informationen zum Widerrufsrecht
+                    ergeben sich aus der Widerrufsbelehrung des Verk&auml;ufers.
+                  </p>
+                  <p>
+                    <b>3.3</b>&nbsp;Soweit nichts anderes vereinbart ist,
+                    besteht ein Widerrufsrecht nicht bei Vertr&auml;gen zur
+                    Erbringung von Dienstleistungen im Zusammenhang mit
+                    Freizeitbet&auml;tigungen, wenn der Vertrag f&uuml;r die
+                    Erbringung einen spezifischen Termin oder Zeitraum vorsieht.
+                    Danach ist ein Widerrufsrecht auch bei Vertr&auml;gen
+                    ausgeschlossen, die den Verkauf von Tickets f&uuml;r
+                    termingebundene Freizeitveranstaltungen zum Gegenstand
+                    haben.
+                  </p>
+                  <h2>4) Preise und Zahlungsbedingungen</h2>
+                  <p>
+                    <b>4.1</b>&nbsp;Sofern sich aus der Produktbeschreibung des
+                    Verk&auml;ufers nichts anderes ergibt, handelt es sich bei
+                    den angegebenen Preisen um Gesamtpreise, die die gesetzliche
+                    Umsatzsteuer enthalten. Gegebenenfalls zus&auml;tzlich
+                    anfallende Liefer- und Versandkosten werden in der
+                    jeweiligen Produktbeschreibung gesondert angegeben.
+                  </p>
+                  <p>
+                    <b>4.2</b>&nbsp;Die Zahlungsm&ouml;glichkeit/en wird/werden
+                    dem Kunden im Online-Shop des Verk&auml;ufers mitgeteilt.
+                  </p>
+                  <p>
+                    <b>4.3</b>&nbsp;Ist Vorauskasse per Bank&uuml;berweisung
+                    vereinbart, ist die Zahlung sofort nach Vertragsabschluss
+                    f&auml;llig, sofern die Parteien keinen sp&auml;teren
+                    F&auml;lligkeitstermin vereinbart haben.
+                  </p>
+                  <p>
+                    <b>4.4</b>&nbsp;Bei Auswahl einer &uuml;ber den
+                    Zahlungsdienst &bdquo;PayPal&#8220; angebotenen Zahlungsart
+                    erfolgt die Zahlungsabwicklung &uuml;ber PayPal, wobei sich
+                    PayPal hierzu auch der Dienste dritter Zahlungsdienstleister
+                    bedienen kann. Sofern der Verk&auml;ufer &uuml;ber PayPal
+                    auch Zahlungsarten anbietet, bei denen er gegen&uuml;ber dem
+                    Kunden in Vorleistung geht (z. B. Rechnungskauf oder
+                    Ratenzahlung), tritt er seine Zahlungsforderung insoweit an
+                    PayPal bzw. an den von PayPal beauftragten und dem Kunden
+                    konkret benannten Zahlungsdienstleister ab. Vor Annahme der
+                    Abtretungserkl&auml;rung des Verk&auml;ufers f&uuml;hrt
+                    PayPal bzw. der von PayPal beauftragte Zahlungsdienstleister
+                    unter Verwendung der &uuml;bermittelten Kundendaten eine
+                    Bonit&auml;tspr&uuml;fung durch. Der Verk&auml;ufer
+                    beh&auml;lt sich vor, dem Kunden die ausgew&auml;hlte
+                    Zahlungsart im Falle eines negativen
+                    Pr&uuml;fungsergebnisses zu verweigern. Bei Zulassung der
+                    ausgew&auml;hlten Zahlungsart hat der Kunde den
+                    Rechnungsbetrag innerhalb der vereinbarten Zahlungsfrist
+                    bzw. in den vereinbarten Zahlungsintervallen zu bezahlen. Er
+                    kann in diesem Fall nur an PayPal bzw. den von PayPal
+                    beauftragten Zahlungsdienstleister mit schuldbefreiender
+                    Wirkung leisten. Der Verk&auml;ufer bleibt jedoch auch im
+                    Falle der Forderungsabtretung zust&auml;ndig f&uuml;r
+                    allgemeine Kundenanfragen z. B. zur Ware, Lieferzeit,
+                    Versendung, Retouren, Reklamationen,
+                    Widerrufserkl&auml;rungen und -zusendungen oder
+                    Gutschriften.
+                  </p>
+                  <p>
+                    <b>4.5</b>&nbsp;Bei Auswahl der Zahlungsart
+                    &bdquo;SOFORT&#8220; erfolgt die Zahlungsabwicklung
+                    &uuml;ber den Zahlungsdienstleister SOFORT GmbH,
+                    Theresienh&ouml;he 12, 80339 M&uuml;nchen (im Folgenden
+                    &bdquo;SOFORT&#8220;). Um den Rechnungsbetrag &uuml;ber
+                    &bdquo;SOFORT&#8220; bezahlen zu k&ouml;nnen, muss der Kunde
+                    &uuml;ber ein f&uuml;r die Teilnahme an &bdquo;SOFORT&#8220;
+                    frei geschaltetes Online-Banking-Konto verf&uuml;gen, sich
+                    beim Zahlungsvorgang entsprechend legitimieren und die
+                    Zahlungsanweisung gegen&uuml;ber &bdquo;SOFORT&#8220;
+                    best&auml;tigen. Die Zahlungstransaktion wird unmittelbar
+                    danach von &bdquo;SOFORT&#8220; durchgef&uuml;hrt und das
+                    Bankkonto des Kunden belastet. N&auml;here Informationen zur
+                    Zahlungsart &bdquo;SOFORT&#8220; kann der Kunde im Internet
+                    unter{' '}
+                    <a
+                      href="https://www.klarna.com/sofort/"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      https://www.klarna.com /sofort /
+                    </a>{' '}
+                    abrufen.
+                  </p>
+                  <p>
+                    <b>4.6</b>&nbsp;Bei Auswahl einer &uuml;ber den
+                    Zahlungsdienst &quot;Shopify Payments&quot; angebotenen
+                    Zahlungsart erfolgt die Zahlungsabwicklung &uuml;ber den
+                    Zahlungsdienstleister Stripe Payments Europe Ltd., 1 Grand
+                    Canal Street Lower, Grand Canal Dock, Dublin, Irland
+                    (nachfolgend &quot;Stripe&quot;). Die einzelnen &uuml;ber
+                    Shopify Payments angebotenen Zahlungsarten werden dem Kunden
+                    im Online-Shop des Verk&auml;ufers mitgeteilt. Zur
+                    Abwicklung von Zahlungen kann sich Stripe weiterer
+                    Zahlungsdienste bedienen, f&uuml;r die ggf. besondere
+                    Zahlungsbedingungen gelten, auf die der Kunde ggf. gesondert
+                    hingewiesen wird. Weitere Informationen zu &quot;Shopify
+                    Payments&quot; sind im Internet unter{' '}
+                    <a
+                      href="https://www.shopify.com/legal/terms-payments-de"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      https://www.shopify.com /legal /terms-payments-de
+                    </a>{' '}
+                    abrufbar.
+                  </p>
+                  <h2>5) Liefer- und Versandbedingungen</h2>
+                  <p>
+                    <b>5.1</b>&nbsp;Bietet der Verk&auml;ufer den Versand der
+                    Ware an, so erfolgt die Lieferung innerhalb des vom
+                    Verk&auml;ufer angegebenen Liefergebietes an die vom Kunden
+                    angegebene Lieferanschrift, sofern nichts anderes vereinbart
+                    ist. Bei der Abwicklung der Transaktion ist die in der
+                    Bestellabwicklung des Verk&auml;ufers angegebene
+                    Lieferanschrift ma&szlig;geblich.
+                  </p>
+                  <p>
+                    <b>5.2</b>&nbsp;Bei Waren, die per Spedition geliefert
+                    werden, erfolgt die Lieferung &quot;frei
+                    Bordsteinkante&quot;, also bis zu der der Lieferadresse
+                    n&auml;chstgelegenen &ouml;ffentlichen Bordsteinkante,
+                    sofern sich aus den Versandinformationen im Online-Shop des
+                    Verk&auml;ufers nichts anderes ergibt und sofern nichts
+                    anderes vereinbart ist.
+                  </p>
+                  <p>
+                    <b>5.3</b>&nbsp;Scheitert die Zustellung der Ware aus
+                    Gr&uuml;nden, die der Kunde zu vertreten hat, tr&auml;gt der
+                    Kunde die dem Verk&auml;ufer hierdurch entstehenden
+                    angemessenen Kosten. Dies gilt im Hinblick auf die Kosten
+                    f&uuml;r die Hinsendung nicht, wenn der Kunde sein
+                    Widerrufsrecht wirksam aus&uuml;bt. F&uuml;r die
+                    R&uuml;cksendekosten gilt bei wirksamer Aus&uuml;bung des
+                    Widerrufsrechts durch den Kunden die in der
+                    Widerrufsbelehrung des Verk&auml;ufers hierzu getroffene
+                    Regelung.
+                  </p>
+                  <p>
+                    <b>5.4</b>&nbsp;Handelt der Kunde als Unternehmer, geht die
+                    Gefahr des zuf&auml;lligen Untergangs und der
+                    zuf&auml;lligen Verschlechterung der verkauften Ware auf den
+                    Kunden &uuml;ber, sobald der Verk&auml;ufer die Sache dem
+                    Spediteur, dem Frachtf&uuml;hrer oder der sonst zur
+                    Ausf&uuml;hrung der Versendung bestimmten Person oder
+                    Anstalt ausgeliefert hat. Handelt der Kunde als Verbraucher,
+                    geht die Gefahr des zuf&auml;lligen Untergangs und der
+                    zuf&auml;lligen Verschlechterung der verkauften Ware
+                    grunds&auml;tzlich erst mit &Uuml;bergabe der Ware an den
+                    Kunden oder eine empfangsberechtigte Person &uuml;ber.
+                    Abweichend hiervon geht die Gefahr des zuf&auml;lligen
+                    Untergangs und der zuf&auml;lligen Verschlechterung der
+                    verkauften Ware auch bei Verbrauchern bereits auf den Kunden
+                    &uuml;ber, sobald der Verk&auml;ufer die Sache dem
+                    Spediteur, dem Frachtf&uuml;hrer oder der sonst zur
+                    Ausf&uuml;hrung der Versendung bestimmten Person oder
+                    Anstalt ausgeliefert hat, wenn der Kunde den Spediteur, den
+                    Frachtf&uuml;hrer oder die sonst zur Ausf&uuml;hrung der
+                    Versendung bestimmte Person oder Anstalt mit der
+                    Ausf&uuml;hrung beauftragt und der Verk&auml;ufer dem Kunden
+                    diese Person oder Anstalt zuvor nicht benannt hat.
+                  </p>
+                  <p>
+                    <b>5.5</b>&nbsp;Der Verk&auml;ufer beh&auml;lt sich das
+                    Recht vor, im Falle nicht richtiger oder nicht
+                    ordnungsgem&auml;&szlig;er Selbstbelieferung vom Vertrag
+                    zur&uuml;ckzutreten. Dies gilt nur f&uuml;r den Fall, dass
+                    die Nichtlieferung nicht vom Verk&auml;ufer zu vertreten ist
+                    und dieser mit der gebotenen Sorgfalt ein konkretes
+                    Deckungsgesch&auml;ft mit dem Zulieferer abgeschlossen hat.
+                    Der Verk&auml;ufer wird alle zumutbaren Anstrengungen
+                    unternehmen, um die Ware zu beschaffen. Im Falle der
+                    Nichtverf&uuml;gbarkeit oder der nur teilweisen
+                    Verf&uuml;gbarkeit der Ware wird der Kunde unverz&uuml;glich
+                    informiert und die Gegenleistung unverz&uuml;glich
+                    erstattet.
+                  </p>
+                  <p>
+                    <b>5.6</b>&nbsp;Bietet der Verk&auml;ufer die Ware zur
+                    Abholung an, so kann der Kunde die bestellte Ware innerhalb
+                    der vom Verk&auml;ufer angegebenen Gesch&auml;ftszeiten
+                    unter der vom Verk&auml;ufer angegebenen Adresse abholen. In
+                    diesem Fall werden keine Versandkosten berechnet.
+                  </p>
+                  <p>
+                    <b>5.7</b>&nbsp;Gutscheine werden dem Kunden wie folgt
+                    bereitgestellt:
+                  </p>
+                  <ul>
+                    <li>per E-Mail</li>
+                    <li>postalisch</li>
+                  </ul>
+                  <p>
+                    <b>5.8</b>&nbsp;Tickets werden dem Kunden wie folgt
+                    bereitgestellt:
+                  </p>
+                  <ul>
+                    <li>per E-Mail</li>
+                    <li>postalisch</li>
+                  </ul>
+                  <h2>
+                    6) Vertragsdauer und Vertragsbeendigung bei
+                    Abonnementvertr&auml;gen
+                  </h2>
+                  <p>
+                    <b>6.1</b>&nbsp;Abonnementvertr&auml;ge werden unbefristet
+                    geschlossen und k&ouml;nnen vom Kunden zum Ende eines jeden
+                    Monats gek&uuml;ndigt werden.
+                  </p>
+                  <p>
+                    <b>6.2</b>&nbsp;Das Recht zur au&szlig;erordentlichen
+                    K&uuml;ndigung aus wichtigem Grund bleibt unber&uuml;hrt.
+                    Ein wichtiger Grund liegt vor, wenn dem k&uuml;ndigenden
+                    Teil unter Ber&uuml;cksichtigung aller Umst&auml;nde des
+                    Einzelfalls und unter Abw&auml;gung der beiderseitigen
+                    Interessen die Fortsetzung des Vertragsverh&auml;ltnisses
+                    bis zur vereinbarten Beendigung oder bis zum Ablauf einer
+                    K&uuml;ndigungsfrist nicht zugemutet werden kann.
+                  </p>
+                  <p>
+                    <b>6.3</b>&nbsp;K&uuml;ndigungen haben schriftlich oder in
+                    Textform (z. B. per E-Mail) zu erfolgen.
+                  </p>
+                  <h2>7) Eigentumsvorbehalt</h2>
+                  <p>
+                    Tritt der Verk&auml;ufer in Vorleistung, beh&auml;lt er sich
+                    bis zur vollst&auml;ndigen Bezahlung des geschuldeten
+                    Kaufpreises das Eigentum an der gelieferten Ware vor.
+                  </p>
+                  <h2>8) M&auml;ngelhaftung (Gew&auml;hrleistung)</h2>
+                  <p>
+                    <b>8.1</b>&nbsp;Soweit sich aus den nachfolgenden Regelungen
+                    nichts anderes ergibt, gelten die Vorschriften der
+                    gesetzlichen M&auml;ngelhaftung. Hiervon abweichend gilt bei
+                    Vertr&auml;gen zur Lieferung von Waren:
+                  </p>
+                  <p>
+                    <b>8.2</b>&nbsp;Handelt der Kunde als Unternehmer,
+                  </p>
+                  <ul>
+                    <li>
+                      hat der Verk&auml;ufer die Wahl der Art der
+                      Nacherf&uuml;llung;
+                    </li>
+                    <li>
+                      betr&auml;gt bei neuen Waren die Verj&auml;hrungsfrist
+                      f&uuml;r M&auml;ngel ein Jahr ab Ablieferung der Ware;
+                    </li>
+                    <li>
+                      sind bei gebrauchten Waren die Rechte und Anspr&uuml;che
+                      wegen M&auml;ngeln ausgeschlossen;
+                    </li>
+                    <li>
+                      beginnt die Verj&auml;hrung nicht erneut, wenn im Rahmen
+                      der M&auml;ngelhaftung eine Ersatzlieferung erfolgt.
+                    </li>
+                  </ul>
+                  <p>
+                    <b>8.3</b>&nbsp;Handelt der Kunde als Verbraucher gilt bei
+                    Vertr&auml;gen zur Lieferung gebrauchter Waren mit der
+                    Einschr&auml;nkung der nachfolgenden Ziffer: Die
+                    Verj&auml;hrungsfrist f&uuml;r M&auml;ngelanspr&uuml;che
+                    betr&auml;gt ein Jahr ab Ablieferung der Ware, wenn dies
+                    zwischen den Parteien ausdr&uuml;cklich und gesondert
+                    vertraglich vereinbart wurde und der Kunde vor der Abgabe
+                    seiner Vertragserkl&auml;rung von der Verk&uuml;rzung der
+                    Verj&auml;hrungsfrist eigens in Kenntnis gesetzt wurde.
+                  </p>
+                  <p>
+                    <b>8.4</b>&nbsp;Die vorstehend geregelten
+                    Haftungsbeschr&auml;nkungen und Fristverk&uuml;rzungen
+                    gelten nicht
+                  </p>
+                  <ul>
+                    <li>
+                      f&uuml;r Schadensersatz- und
+                      Aufwendungsersatzanspr&uuml;che des Kunden,
+                    </li>
+                    <li>
+                      f&uuml;r den Fall, dass der Verk&auml;ufer den Mangel
+                      arglistig verschwiegen hat,
+                    </li>
+                    <li>
+                      f&uuml;r Waren, die entsprechend ihrer &uuml;blichen
+                      Verwendungsweise f&uuml;r ein Bauwerk verwendet worden
+                      sind und dessen Mangelhaftigkeit verursacht haben,
+                    </li>
+                    <li>
+                      f&uuml;r eine ggf. bestehende Verpflichtung des
+                      Verk&auml;ufers zur Bereitstellung von Aktualisierungen
+                      f&uuml;r digitale Produkte, bei Vertr&auml;gen zur
+                      Lieferung von Waren mit digitalen Elementen.
+                    </li>
+                  </ul>
+                  <p>
+                    <b>8.5</b>&nbsp;Dar&uuml;ber hinaus gilt f&uuml;r
+                    Unternehmer, dass die gesetzlichen Verj&auml;hrungsfristen
+                    f&uuml;r einen ggf. bestehenden gesetzlichen
+                    R&uuml;ckgriffsanspruch unber&uuml;hrt bleiben.
+                  </p>
+                  <p>
+                    <b>8.6</b>&nbsp;Handelt der Kunde als Kaufmann i.S.d. &sect;
+                    1 HGB, trifft ihn die kaufm&auml;nnische Untersuchungs- und
+                    R&uuml;gepflicht gem&auml;&szlig; &sect; 377 HGB.
+                    Unterl&auml;sst der Kunde die dort geregelten
+                    Anzeigepflichten, gilt die Ware als genehmigt.
+                  </p>
+                  <p>
+                    <b>8.7</b>&nbsp;Handelt der Kunde als Verbraucher, so wird
+                    er gebeten, angelieferte Waren mit offensichtlichen
+                    Transportsch&auml;den bei dem Zusteller zu reklamieren und
+                    den Verk&auml;ufer hiervon in Kenntnis zu setzen. Kommt der
+                    Kunde dem nicht nach, hat dies keinerlei Auswirkungen auf
+                    seine gesetzlichen oder vertraglichen
+                    M&auml;ngelanspr&uuml;che.
+                  </p>
+                  <h2>
+                    9) Besondere Bedingungen f&uuml;r die Verarbeitung von Waren
+                    nach bestimmten Vorgaben des Kunden
+                  </h2>
+                  <p>
+                    <b>9.1</b>&nbsp;Schuldet der Verk&auml;ufer nach dem Inhalt
+                    des Vertrages neben der Warenlieferung auch die Verarbeitung
+                    der Ware nach bestimmten Vorgaben des Kunden, hat der Kunde
+                    dem Verk&auml;ufer alle f&uuml;r die Verarbeitung
+                    erforderlichen Inhalte wie Texte, Bilder oder Grafiken in
+                    den vom Verk&auml;ufer vorgegebenen Dateiformaten,
+                    Formatierungen, Bild- und Dateigr&ouml;&szlig;en zur
+                    Verf&uuml;gung zu stellen und ihm die hierf&uuml;r
+                    erforderlichen Nutzungsrechte einzur&auml;umen. F&uuml;r die
+                    Beschaffung und den Rechteerwerb an diesen Inhalten ist
+                    allein der Kunde verantwortlich. Der Kunde erkl&auml;rt und
+                    &uuml;bernimmt die Verantwortung daf&uuml;r, dass er das
+                    Recht besitzt, die dem Verk&auml;ufer &uuml;berlassenen
+                    Inhalte zu nutzen. Er tr&auml;gt insbesondere daf&uuml;r
+                    Sorge, dass hierdurch keine Rechte Dritter verletzt werden,
+                    insbesondere Urheber-, Marken- und
+                    Pers&ouml;nlichkeitsrechte.
+                  </p>
+                  <p>
+                    <b>9.2</b>&nbsp;Der Kunde stellt den Verk&auml;ufer von
+                    Anspr&uuml;chen Dritter frei, die diese im Zusammenhang mit
+                    einer Verletzung ihrer Rechte durch die
+                    vertragsgem&auml;&szlig;e Nutzung der Inhalte des Kunden
+                    durch den Verk&auml;ufer diesem gegen&uuml;ber geltend
+                    machen k&ouml;nnen. Der Kunde &uuml;bernimmt hierbei auch
+                    die notwendigen Kosten der Rechtsverteidigung
+                    einschlie&szlig;lich aller Gerichts- und Anwaltskosten in
+                    gesetzlicher H&ouml;he. Dies gilt nicht, wenn die
+                    Rechtsverletzung vom Kunden nicht zu vertreten ist. Der
+                    Kunde ist verpflichtet, dem Verk&auml;ufer im Falle einer
+                    Inanspruchnahme durch Dritte unverz&uuml;glich,
+                    wahrheitsgem&auml;&szlig; und vollst&auml;ndig alle
+                    Informationen zur Verf&uuml;gung zu stellen, die f&uuml;r
+                    die Pr&uuml;fung der Anspr&uuml;che und eine Verteidigung
+                    erforderlich sind.
+                  </p>
+                  <p>
+                    <b>9.3</b>&nbsp;Der Verk&auml;ufer beh&auml;lt sich vor,
+                    Verarbeitungsauftr&auml;ge abzulehnen, wenn die vom Kunden
+                    hierf&uuml;r &uuml;berlassenen Inhalte gegen gesetzliche
+                    oder beh&ouml;rdliche Verbote oder gegen die guten Sitten
+                    versto&szlig;en. Dies gilt insbesondere bei &Uuml;berlassung
+                    verfassungsfeindlicher, rassistischer, fremdenfeindlicher,
+                    diskriminierender, beleidigender, Jugend gef&auml;hrdender
+                    und/oder Gewalt verherrlichender Inhalte.
+                  </p>
+                  <h2>
+                    10) Besondere Bedingungen f&uuml;r Montage-/Einbauleistungen
+                  </h2>
+                  <p>
+                    Schuldet der Verk&auml;ufer nach dem Inhalt des Vertrages
+                    neben der Warenlieferung auch die Montage bzw. den Einbau
+                    der Ware beim Kunden sowie ggf. entsprechende
+                    Vorbereitungsma&szlig;nahmen (z. B. Aufma&szlig;), so gilt
+                    hierf&uuml;r Folgendes:
+                  </p>
+                  <p>
+                    <b>10.1</b>&nbsp;Der Verk&auml;ufer erbringt seine
+                    Leistungen nach seiner Wahl in eigener Person oder durch
+                    qualifiziertes, von ihm ausgew&auml;hltes Personal. Dabei
+                    kann sich der Verk&auml;ufer auch der Leistungen Dritter
+                    (Subunternehmer) bedienen, die in seinem Auftrag t&auml;tig
+                    werden. Sofern sich aus der Leistungsbeschreibung des
+                    Verk&auml;ufers nichts anderes ergibt, hat der Kunde keinen
+                    Anspruch auf Auswahl einer bestimmten Person zur
+                    Durchf&uuml;hrung der gew&uuml;nschten Dienstleistung.
+                  </p>
+                  <p>
+                    <b>10.2</b>&nbsp;Der Kunde hat dem Verk&auml;ufer die
+                    f&uuml;r die Erbringung der geschuldeten Dienstleistung
+                    erforderlichen Informationen vollst&auml;ndig und
+                    wahrheitsgem&auml;&szlig; zur Verf&uuml;gung zu stellen,
+                    sofern deren Beschaffung nach dem Inhalt des Vertrages nicht
+                    in den Pflichtenkreis des Verk&auml;ufers f&auml;llt.
+                  </p>
+                  <p>
+                    <b>10.3</b>&nbsp;Der Verk&auml;ufer wird sich nach
+                    Vertragsschluss mit dem Kunden in Verbindung setzen, um mit
+                    diesem einen Termin f&uuml;r die geschuldete Leistung zu
+                    vereinbaren. Der Kunde tr&auml;gt daf&uuml;r Sorge, dass der
+                    Verk&auml;ufer bzw. das von diesem beauftragte Personal zum
+                    vereinbarten Termin Zugang zu den betreffenden Einrichtungen
+                    des Kunden hat.
+                  </p>
+                  <p>
+                    <b>10.4</b>&nbsp;Die Gefahr des zuf&auml;lligen Untergangs
+                    und der zuf&auml;lligen Verschlechterung der verkauften Ware
+                    geht erst mit der Beendigung der Montagearbeiten und der
+                    &Uuml;bergabe an den Kunden auf den Kunden &uuml;ber.
+                  </p>
+                  <h2>
+                    11) Besondere Bedingungen f&uuml;r Reparaturleistungen
+                  </h2>
+                  <p>
+                    Schuldet der Verk&auml;ufer nach dem Inhalt des Vertrages
+                    die Reparatur einer Sache des Kunden, so gilt hierf&uuml;r
+                    Folgendes:
+                  </p>
+                  <p>
+                    <b>11.1</b>&nbsp;Reparaturleistungen werden am Sitz des
+                    Verk&auml;ufers erbracht.
+                  </p>
+                  <p>
+                    <b>11.2</b>&nbsp;Der Verk&auml;ufer erbringt seine
+                    Leistungen nach seiner Wahl in eigener Person oder durch
+                    qualifiziertes, von ihm ausgew&auml;hltes Personal. Dabei
+                    kann sich der Verk&auml;ufer auch der Leistungen Dritter
+                    (Subunternehmer) bedienen, die in seinem Auftrag t&auml;tig
+                    werden. Sofern sich aus der Leistungsbeschreibung des
+                    Verk&auml;ufers nichts anderes ergibt, hat der Kunde keinen
+                    Anspruch auf Auswahl einer bestimmten Person zur
+                    Durchf&uuml;hrung der gew&uuml;nschten Dienstleistung.
+                  </p>
+                  <p>
+                    <b>11.3</b>&nbsp;Der Kunde hat dem Verk&auml;ufer alle
+                    f&uuml;r die Reparatur der Sache erforderlichen
+                    Informationen zur Verf&uuml;gung zu stellen, sofern deren
+                    Beschaffung nach dem Inhalt des Vertrages nicht in den
+                    Pflichtenkreis des Verk&auml;ufers f&auml;llt. Insbesondere
+                    hat der Kunde dem Verk&auml;ufer eine umfassende
+                    Fehlerbeschreibung zu &uuml;bermitteln und ihm
+                    s&auml;mtliche Umst&auml;nde mitzuteilen, die
+                    urs&auml;chlich f&uuml;r den festgestellten Fehler sein
+                    k&ouml;nnen.
+                  </p>
+                  <p>
+                    <b>11.4</b>&nbsp;Sofern nicht anders vereinbart, hat der
+                    Kunde die zu reparierende Sache auf eigene Kosten und Gefahr
+                    an den Sitz des Verk&auml;ufers zu versenden. Der
+                    Verk&auml;ufer empfiehlt dem Kunden hierf&uuml;r den
+                    Abschluss einer Transportversicherung. Ferner empfiehlt der
+                    Verk&auml;ufer dem Kunden, die Sache in einer geeigneten
+                    Transportverpackung zu versenden, um das Risiko von
+                    Transportsch&auml;den zu reduzieren und den Inhalt der
+                    Verpackung zu verbergen. &Uuml;ber offensichtliche
+                    Transportsch&auml;den wird der Verk&auml;ufer den Kunden
+                    unverz&uuml;glich informieren, damit dieser seine ggf.
+                    gegen&uuml;ber dem Transporteur bestehenden Rechte geltend
+                    machen kann.
+                  </p>
+                  <p>
+                    <b>11.5</b>&nbsp;Die R&uuml;cksendung der Sache erfolgt auf
+                    Kosten des Kunden. Die Gefahr des zuf&auml;lligen Untergangs
+                    und der zuf&auml;lligen Verschlechterung der Sache geht mit
+                    der &Uuml;bergabe der Sache an eine geeignete
+                    Transportperson am Gesch&auml;ftssitz des Verk&auml;ufers
+                    auf den Kunden &uuml;ber. Auf Wunsch des Kunden wird der
+                    Verk&auml;ufer f&uuml;r die Sache eine Transportversicherung
+                    abschlie&szlig;en.
+                  </p>
+                  <p>
+                    <b>11.6</b>&nbsp;Der Kunde kann die zu reparierende Sache
+                    auch selbst an den Sitz des Verk&auml;ufers verbringen und
+                    wieder von diesem abholen, wenn sich dies aus der
+                    Leistungsbeschreibung des Verk&auml;ufers ergibt oder wenn
+                    die Parteien hier&uuml;ber eine entsprechende Vereinbarung
+                    getroffen haben. In diesem Fall gelten die vorstehenden
+                    Regelungen zur Kosten- und Gefahrtragung bei Versand und
+                    R&uuml;ckversand der Sache entsprechend.
+                  </p>
+                  <p>
+                    <b>11.7</b>&nbsp;Die vorgenannten Regelungen
+                    beschr&auml;nken nicht die gesetzlichen M&auml;ngelrechte
+                    des Kunden im Falle des Kaufs einer Ware vom Verk&auml;ufer.
+                  </p>
+                  <p>
+                    <b>11.8</b>&nbsp;F&uuml;r M&auml;ngel der erbrachten
+                    Reparaturleistung haftet der Verk&auml;ufer nach den
+                    Vorschriften der gesetzlichen M&auml;ngelhaftung.
+                  </p>
+                  <h2>12) Einl&ouml;sung von Aktionsgutscheinen</h2>
+                  <p>
+                    <b>12.1</b>&nbsp;Gutscheine, die vom Verk&auml;ufer im
+                    Rahmen von Werbeaktionen mit einer bestimmten
+                    G&uuml;ltigkeitsdauer unentgeltlich ausgegeben werden und
+                    die vom Kunden nicht k&auml;uflich erworben werden
+                    k&ouml;nnen (nachfolgend &quot;Aktionsgutscheine&quot;),
+                    k&ouml;nnen nur im Online-Shop des Verk&auml;ufers und nur
+                    im angegebenen Zeitraum eingel&ouml;st werden.
+                  </p>
+                  <p>
+                    <b>12.2</b>&nbsp;Einzelne Produkte k&ouml;nnen von der
+                    Gutscheinaktion ausgeschlossen sein, sofern sich eine
+                    entsprechende Einschr&auml;nkung aus dem Inhalt des
+                    Aktionsgutscheins ergibt.
+                  </p>
+                  <p>
+                    <b>12.3</b>&nbsp;Aktionsgutscheine k&ouml;nnen nur vor
+                    Abschluss des Bestellvorgangs eingel&ouml;st werden. Eine
+                    nachtr&auml;gliche Verrechnung ist nicht m&ouml;glich.
+                  </p>
+                  <p>
+                    <b>12.4</b>&nbsp;Pro Bestellung kann immer nur ein
+                    Aktionsgutschein eingel&ouml;st werden.
+                  </p>
+                  <p>
+                    <b>12.5</b>&nbsp;Der Warenwert muss mindestens dem Betrag
+                    des Aktionsgutscheins entsprechen. Etwaiges Restguthaben
+                    wird vom Verk&auml;ufer nicht erstattet.
+                  </p>
+                  <p>
+                    <b>12.6</b>&nbsp;Reicht der Wert des Aktionsgutscheins zur
+                    Deckung der Bestellung nicht aus, kann zur Begleichung des
+                    Differenzbetrages eine der &uuml;brigen vom Verk&auml;ufer
+                    angebotenen Zahlungsarten gew&auml;hlt werden.
+                  </p>
+                  <p>
+                    <b>12.7</b>&nbsp;Das Guthaben eines Aktionsgutscheins wird
+                    weder in Bargeld ausgezahlt noch verzinst.
+                  </p>
+                  <p>
+                    <b>12.8</b>&nbsp;Der Aktionsgutschein wird nicht erstattet,
+                    wenn der Kunde die mit dem Aktionsgutschein ganz oder
+                    teilweise bezahlte Ware im Rahmen seines gesetzlichen
+                    Widerrufsrechts zur&uuml;ckgibt.
+                  </p>
+                  <p>
+                    <b>12.9</b>&nbsp;Der Aktionsgutschein ist &uuml;bertragbar.
+                    Der Verk&auml;ufer kann mit befreiender Wirkung an den
+                    jeweiligen Inhaber, der den Aktionsgutschein im Online-Shop
+                    des Verk&auml;ufers einl&ouml;st, leisten. Dies gilt nicht,
+                    wenn der Verk&auml;ufer Kenntnis oder grob fahrl&auml;ssige
+                    Unkenntnis von der Nichtberechtigung, der
+                    Gesch&auml;ftsunf&auml;higkeit oder der fehlenden
+                    Vertretungsberechtigung des jeweiligen Inhabers hat.
+                  </p>
+                  <h2>13) Einl&ouml;sung von Geschenkgutscheinen</h2>
+                  <p>
+                    <b>13.1</b>&nbsp;Gutscheine, die &uuml;ber den Online-Shop
+                    des Verk&auml;ufers k&auml;uflich erworben werden
+                    k&ouml;nnen (nachfolgend &quot;Geschenkgutscheine&quot;),
+                    k&ouml;nnen nur im Online-Shop des Verk&auml;ufers
+                    eingel&ouml;st werden, sofern sich aus dem Gutschein nichts
+                    anderes ergibt.
+                  </p>
+                  <p>
+                    <b>13.2</b>&nbsp;Geschenkgutscheine und Restguthaben von
+                    Geschenkgutscheinen sind bis zum Ende des dritten Jahres
+                    nach dem Jahr des Gutscheinkaufs einl&ouml;sbar.
+                    Restguthaben werden dem Kunden bis zum Ablaufdatum
+                    gutgeschrieben.
+                  </p>
+                  <p>
+                    <b>13.3</b>&nbsp;Geschenkgutscheine k&ouml;nnen nur vor
+                    Abschluss des Bestellvorgangs eingel&ouml;st werden. Eine
+                    nachtr&auml;gliche Verrechnung ist nicht m&ouml;glich.
+                  </p>
+                  <p>
+                    <b>13.4</b>&nbsp;Pro Bestellung kann immer nur ein
+                    Geschenkgutschein eingel&ouml;st werden.
+                  </p>
+                  <p>
+                    <b>13.5</b>&nbsp;Geschenkgutscheine k&ouml;nnen nur f&uuml;r
+                    den Kauf von Waren und nicht f&uuml;r den Kauf von weiteren
+                    Geschenkgutscheinen verwendet werden.
+                  </p>
+                  <p>
+                    <b>13.6</b>&nbsp;Reicht der Wert des Geschenkgutscheins zur
+                    Deckung der Bestellung nicht aus, kann zur Begleichung des
+                    Differenzbetrages eine der &uuml;brigen vom Verk&auml;ufer
+                    angebotenen Zahlungsarten gew&auml;hlt werden.
+                  </p>
+                  <p>
+                    <b>13.7</b>&nbsp;Das Guthaben eines Geschenkgutscheins wird
+                    weder in Bargeld ausgezahlt noch verzinst.
+                  </p>
+                  <p>
+                    <b>13.8</b>&nbsp;Der Geschenkgutschein ist &uuml;bertragbar.
+                    Der Verk&auml;ufer kann mit befreiender Wirkung an den
+                    jeweiligen Inhaber, der den Geschenkgutschein im Online-Shop
+                    des Verk&auml;ufers einl&ouml;st, leisten. Dies gilt nicht,
+                    wenn der Verk&auml;ufer Kenntnis oder grob fahrl&auml;ssige
+                    Unkenntnis von der Nichtberechtigung, der
+                    Gesch&auml;ftsunf&auml;higkeit oder der fehlenden
+                    Vertretungsberechtigung des jeweiligen Inhabers hat.
+                  </p>
+                  <h2>14) Anwendbares Recht</h2>
+                  <p>
+                    F&uuml;r s&auml;mtliche Rechtsbeziehungen der Parteien gilt
+                    das Recht der Bundesrepublik Deutschland unter Ausschluss
+                    der Gesetze &uuml;ber den internationalen Kauf beweglicher
+                    Waren. Bei Verbrauchern gilt diese Rechtswahl nur insoweit,
+                    als nicht der gew&auml;hrte Schutz durch zwingende
+                    Bestimmungen des Rechts des Staates, in dem der Verbraucher
+                    seinen gew&ouml;hnlichen Aufenthalt hat, entzogen wird.
+                  </p>
+                  <h2>15) Verhaltenskodex</h2>
+                  <ul>
+                    <li>
+                      Der Verk&auml;ufer hat sich den Teilnahmebedingungen
+                      f&uuml;r die eCommerce-Initiative &bdquo;Fairness im
+                      Handel&#8220; unterworfen, die im Internet unter{' '}
+                      <a
+                        href="https://www.fairness-im-handel.de/teilnahmebedingungen/"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        https://www.fairness-im-handel.de /teilnahmebedingungen
+                        /
+                      </a>{' '}
+                      einsehbar sind.
+                    </li>
+                    <li>
+                      Der Verk&auml;ufer hat sich den Richtlinien f&uuml;r
+                      &bdquo;Google Kundenrezensionen&#8220; unterworfen, die im
+                      Internet unter{' '}
+                      <a
+                        href="https://support.google.com/merchants/topic/7105962"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        https://support.google.com /merchants /topic /7105962
+                      </a>{' '}
+                      einsehbar sind.
+                    </li>
+                    <li>
+                      Der Verk&auml;ufer hat sich den Trusted Shops
+                      Qualit&auml;tskriterien unterworfen, die im Internet unter{' '}
+                      <a
+                        href="http://www.trustedshops.com/tsdocument/TS_QUALITY_CRITERIA_de.pdf"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        http://www.trustedshops.com /tsdocument
+                        /TS_QUALITY_CRITERIA_de.pdf
+                      </a>{' '}
+                      einsehbar sind.
+                    </li>
+                  </ul>
+                  <h2>16) Alternative Streitbeilegung</h2>
+                  <p>
+                    <b>16.1</b>&nbsp;Die EU-Kommission stellt im Internet unter
+                    folgendem Link eine Plattform zur Online-Streitbeilegung
+                    bereit:{' '}
+                    <a
+                      href="https://ec.europa.eu/consumers/odr"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      https://ec.europa.eu /consumers /odr
+                    </a>
+                  </p>
+                  <p>
+                    Diese Plattform dient als Anlaufstelle zur
+                    au&szlig;ergerichtlichen Beilegung von Streitigkeiten aus
+                    Online-Kauf- oder Dienstleistungsvertr&auml;gen, an denen
+                    ein Verbraucher beteiligt ist.
+                  </p>
+                  <p>
+                    <b>16.2</b>&nbsp;Der Verk&auml;ufer ist zur Teilnahme an
+                    einem Streitbeilegungsverfahren vor einer
+                    Verbraucherschlichtungsstelle weder verpflichtet noch
+                    bereit.
+                  </p>
+                  <br />
+                  <a href="https://www.it-recht-kanzlei.de/">
+                    <Image
+                      src="https://www.it-recht-kanzlei.de/logo/AGB-Logo.png?i=3b2f2-21a74-39ca-9080-1"
+                      alt="Vertreten durch die IT-Recht Kanzlei"
+                      width={150}
+                      height={150}
+                    />
+                  </a>
                   <br />
                   <br />
                   <br />

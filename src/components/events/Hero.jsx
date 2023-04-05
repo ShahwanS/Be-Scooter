@@ -22,18 +22,18 @@ export function Hero() {
                 <h2 className="break-words text-3xl font-normal tracking-widest text-[#333333]">
                   BE-SCOOTER® -
                 </h2>
-                <h2 className="mt-2 break-words text-3xl font-bold tracking-widest text-[#333333]">
+                <h2 className="mt-2 break-words text-2xl font-bold tracking-widest text-[#333333]">
                   FAHRSICHERHEITSTRAINING „BASIC“ MIT EINEM E-SCOOTER
                 </h2>
               </div>
               <p className="text-md mt-5 leading-8 text-[#333333] md:mt-2 md:text-lg">
-                (elektrounterstützter Tretroller). Das Ziel ist es, das
-                Sicherheitsgefühl beim Führen von elektrounterstützten
-                Fahrzeugen zu erhöhen und für die neue Fortbewegungsmöglichkeit
-                der kommenden Jahre: ELEKTROMOBILITÄT zu sensibilisieren! In 60
-                Minuten erläutern wir das Basiswissen zu den Voraussetzungen und
-                Regeln der Teilnahme am Straßenverkehr, informieren über Wartung
-                und Pflege des Fahrzeuges / Akku und weiterhin gibt es eine
+                Das Ziel ist es, das Sicherheitsgefühl beim Führen von
+                elektrounterstützten Fahrzeugen zu erhöhen und für die neue
+                Fortbewegungsmöglichkeit der kommenden Jahre: ELEKTROMOBILITÄT
+                zu sensibilisieren! <br /> In 60 Minuten erläutern wir das
+                Basiswissen zu den Voraussetzungen und Regeln der Teilnahme am
+                Straßenverkehr, informieren über Wartung und Pflege des
+                Fahrzeuges / Akku und weiterhin gibt es eine
                 Sicherheitsempfehlung und natürlich Zeit für individuelle
                 Fragen.
               </p>

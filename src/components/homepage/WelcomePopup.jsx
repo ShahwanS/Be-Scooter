@@ -49,7 +49,7 @@ export function WelcomePopup() {
             priority
           />
           <h1 className="mb-3 text-2xl font-bold">
-            Willkommen auf der neuen Seite von BE-Scooter®!
+            Willkommen auf der neuen Seite von BE-SCooTER®!
           </h1>
           <div className="h-2 w-full rounded bg-gray-200">
             <div

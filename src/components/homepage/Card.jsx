@@ -45,7 +45,7 @@ const Card = ({
               expandedCard === card.id || showContent === card.id
                 ? 'md:text-center lg:pb-10'
                 : ''
-            }  font-encode text-3xl font-semibold text-white sm:text-center md:text-left md:text-2xl lg:text-6xl`}
+            }  font-encode text-3xl font-semibold text-white sm:text-center md:text-left md:text-3xl lg:text-6xl`}
           >
             {card.title}
           </div>
@@ -109,7 +109,7 @@ const Card = ({
                     eine persönliche Note in Form von Pulverbeschichtungen
                   </li>
                 </ul>
-              )}    
+              )}
               <div className="mt-4 text-center">
                 {(card.id === 3 ||
                   card.id == 0 ||
