@@ -162,7 +162,7 @@ export function SecondaryFeatures() {
                   {slide.buttonText}
                 </a>
               </div>
-              {(index === 0 || index === 1 || index === 2 || index === 4) && (
+              {(index === 0 || index === 1 || index === 2) && (
                 <div className="relative">
                   <Image
                     src={slide.imageSrc}
@@ -172,7 +172,7 @@ export function SecondaryFeatures() {
                   />
                 </div>
               )}
-              {(index === 3 || index === 5) && (
+              {(index === 3 || index === 5 || index === 4) && (
                 <div className="relative">
                   <Image
                     src={slide.imageSrc}

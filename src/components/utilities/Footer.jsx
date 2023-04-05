@@ -36,97 +36,102 @@ export function Footer() {
           </Link>
         </div>
       </div>
-      <hr className=":mx-auto my-6 border-gray-200 dark:border-gray-700 lg:my-8" />
-      <div className=":gap-6 :grid-cols-3 grid-cols-3 justify-items-center text-lg uppercase text-black md:grid   md:justify-end md:gap-8">
-        <div>
-          <h2 className="mb-6 text-2xl font-semibold">Resources</h2>
-          <ul className="text-gray-900 dark:text-gray-700 ">
-            <li className="mb-4">
-              <Link
-                href="/Career"
-                className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
-              >
-                Jobs
-              </Link>
-            </li>
-            <li className="mb-4">
-              <Link
-                href="https://tailwindcss.com/"
-                className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
-              >
-                E-SCooTER REPARATUR
-              </Link>
-            </li>
-            <li>
-              <Link
-                href="https://store.be-scooter.de/"
-                className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
-              >
-                {' '}
-                &quot;SToRE Online!&quot;
-              </Link>
-            </li>
-          </ul>
-        </div>
-        <div>
-          <h2 className="mb-6 mt-10 text-2xl font-semibold md:mt-0">
-            Follow us
-          </h2>
-          <ul className="text-gray-900 dark:text-gray-700">
-            <li className="mb-4">
-              <a
-                href="https://www.facebook.com/bescooter.de/"
-                className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
-              >
-                Facebook
-              </a>
-            </li>
-            <li className="mb-4">
-              <a
-                href="https://www.youtube.com/channel/UCBbSWykgqvMCUOvSbtcqHOA?"
-                className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
-              >
-                Youtube
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.instagram.com/be_scooter_funsport/"
-                className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
-              >
-                Instagram
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div>
-          <h2 className="mb-6 mt-10 text-2xl font-semibold md:mt-0"> Legal</h2>
-          <ul className="text-gray-900 dark:text-gray-700">
-            <li className="mb-4">
-              <Link
-                href="Infos#impressum"
-                className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
-              >
-                Impressum
-              </Link>
-            </li>
-            <li className="mb-4">
-              <Link
-                href="Infos#Datenschutz"
-                className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
-              >
-                Datenschutz
-              </Link>
-            </li>
-            <li>
-              <Link
-                href="Infos#Cookie-Einstellungen"
-                className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
-              >
-                Cookie-Einstellungen
-              </Link>
-            </li>
-          </ul>
+      <hr className="mx-auto my-6 border-gray-200 dark:border-gray-700 lg:my-8" />
+      <div className="flex  items-center justify-center">
+        <div className="mx-auto grid-cols-3 justify-center gap-6 text-center text-lg uppercase text-black md:grid md:gap-8">
+          <div>
+            <h2 className="mb-6 text-2xl font-semibold">Resources</h2>
+            <ul className=" text-gray-900 dark:text-gray-700">
+              <li className="mb-4">
+                <Link
+                  href="/Career"
+                  className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
+                >
+                  Jobs
+                </Link>
+              </li>
+              <li className="mb-4">
+                <Link
+                  href="https://tailwindcss.com/"
+                  className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
+                >
+                  E-SCooTER REPARATUR
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="https://store.be-scooter.de/"
+                  className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
+                >
+                  {' '}
+                  &quot;SToRE Online!&quot;
+                </Link>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h2 className="mb-6 mt-10 text-2xl font-semibold md:mt-0">
+              Follow us
+            </h2>
+            <ul className="text-gray-900 dark:text-gray-700">
+              <li className="mb-4">
+                <a
+                  href="https://www.facebook.com/bescooter.de/"
+                  className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
+                >
+                  Facebook
+                </a>
+              </li>
+              <li className="mb-4">
+                <a
+                  href="https://www.youtube.com/channel/UCBbSWykgqvMCUOvSbtcqHOA?"
+                  className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
+                >
+                  Youtube
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.instagram.com/be_scooter_funsport/"
+                  className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
+                >
+                  Instagram
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h2 className="mb-6 mt-10 text-2xl font-semibold md:mt-0">
+              {' '}
+              Legal
+            </h2>
+            <ul className="text-gray-900 dark:text-gray-700">
+              <li className="mb-4">
+                <Link
+                  href="Infos#impressum"
+                  className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
+                >
+                  Impressum
+                </Link>
+              </li>
+              <li className="mb-4">
+                <Link
+                  href="Infos#Datenschutz"
+                  className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
+                >
+                  Datenschutz
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="Infos#Cookie-Einstellungen"
+                  className="text-lg hover:bg-slate-100 hover:bg-opacity-50 hover:text-slate-900 "
+                >
+                  Cookie-Einstellungen
+                </Link>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
       <hr className="mx-auto my-6 border-gray-200 dark:border-gray-900 lg:my-8" />
