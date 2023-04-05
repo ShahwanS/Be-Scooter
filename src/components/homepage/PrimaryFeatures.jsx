@@ -125,9 +125,8 @@ export function PrimaryFeatures() {
             classNameNotInView={'opacity-0 md:-translate-x-full'}
           >
             • KUNDENWOHLFÜHLFAKTOR - durch unsere offene, freundliche und
-            kundenorientierte Arbeitsweise und dem MEHR an SERVICE (was für uns
-            Selbstverständlich ist) verfolgen wir stets das Ziel, das Sie sich
-            als Kunde bei BE-SCooTER® wohl fühlen
+            kundenorientierte Arbeitsweise und dem MEHR an SERVICE verfolgen wir
+            stets das Ziel, das Sie sich als Kunde bei BE-SCooTER® wohl fühlen
           </AnimationOnScroll>
           <AnimationOnScroll
             classnames="m-2 rounded-3xl border border-slate-200 text-[#FFFFFF]  tansparent p-4 "

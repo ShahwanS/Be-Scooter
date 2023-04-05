@@ -16,7 +16,7 @@ const sliderData = [
     imageAlt: 'EGRET Scooterbikes',
   },
   {
-    title: 'NEUE LIEFERUNG : Stunt-Scooter und Cityroller von Soke',
+    title: 'NEUE LIEFERUNG : Stunt-Scooter und Cityroller von SOKE',
     description: (
       <p className="sm:text-xs md:text-[14.5px] md:leading-normal lg:p-5 lg:text-base">
         {' '}
@@ -34,7 +34,7 @@ const sliderData = [
         Handgriffe.
       </p>
     ),
-    buttonText: 'Soke SCooTERBIKES Entdecken',
+    buttonText: 'SOKE SCooTERBIKES Entdecken',
     buttonLink: 'https://store.be-scooter.de/collections/soke',
     imageSrc: '/images/pics/news2.png',
     imageAlt: 'Stunt-Scooter Soke Cityroller',

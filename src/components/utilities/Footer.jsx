@@ -5,20 +5,19 @@ export function Footer() {
   return (
     <footer className=" h-auto border-gray-900 bg-gradient-to-br from-green-400 to-blue-400 p-4  font-encode">
       <div className="md:flex md:justify-center ">
-        <div className="mb-6 flex flex-row justify-between  md:mb-0">
+        <div className="mb-6 flex flex-row justify-between  md:mb-0 ">
           <Link href="https://www.it-recht-kanzlei.de/">
             <Image
-              className="mt-2"
+              className="mt-2 "
               src="https://www.it-recht-kanzlei.de/logo/Logo_Juristisch_betreut_durch_IT-Recht_Kanzlei.png?i=3b2f2-21a74-39c6-907c-1"
               alt="Vertreten durch die IT-Recht Kanzlei"
-              width={200}
-              height={200}
+              width={120}
+              height={120}
             />
           </Link>
-
           <Link href="#" aria-label="Home">
             <Image
-              className="mx-20 rounded-lg"
+              className="rounded-lg md:mx-20"
               src={'/images/pics/beScooter.png'}
               alt="My Image"
               width={250}
@@ -31,8 +30,8 @@ export function Footer() {
               className=" rounded-lg"
               src={'/images/pics/fairness.jpg'}
               alt="My Image"
-              width={90}
-              height={90}
+              width={85}
+              height={85}
             />
           </Link>
         </div>

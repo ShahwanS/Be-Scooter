@@ -49,7 +49,7 @@ export function Knausgaard() {
                   href="https://store.be-scooter.de/collections/egret"
                   className=" mt-3 rounded-xl border-b-4 border-[#35495e] bg-[#35495e] py-3 px-4 font-bold text-white transition hover:-translate-y-1 hover:opacity-90"
                 >
-                  Erget E-SCooTER IM &quot;SToRE ONLINE!&quot;
+                  EGRET E-SCooTER IM &quot;SToRE ONLINE!&quot;
                 </a>
               </div>
             </div>
@@ -114,7 +114,7 @@ export function Knausgaard() {
                   <h2 className="text-2xl font-bold tracking-widest text-[#333333]">
                     FEEL THE ENERGY.
                   </h2>
-                  <h2 className="mt-4 text-3xl font-bold tracking-widest text-[#333333]">
+                  <h2 className="mt-4 text-2xl font-bold tracking-widest text-[#333333]">
                     VMAX AB SOFORT BEI BE-SCOOTER®
                   </h2>
                 </div>
