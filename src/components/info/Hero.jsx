@@ -3253,7 +3253,7 @@ export function Hero() {
                   über den Winter) tiefentladene Bleiakkus, lässt diese <br />
                   sulfatieren und beschädigt die Zellen. Dieser Prozess ist in
                   vielen Fällen nicht wieder umzukehren und führt zum <br />
-                  Totalausfall des Akkus.
+                  Totalausfall des Akkus..
                   <br />
                   <br />
                   Denken Sie nicht Sie “verschwenden” viele Ladezyklen, indem
