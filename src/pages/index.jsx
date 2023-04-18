@@ -20,6 +20,10 @@ export default function Home() {
           content="Willkommen bei Be-ScooTER®! Entdecken Sie die Zukunft der Mobilität mit Be-SCooTER®. Unsere Elektroroller bieten eine umweltfreundliche und effiziente Möglichkeit, sich in der Stadt fortzubewegen. Erfahren Sie mehr über unsere Produkte und bestellen Sie noch heute Ihren Be-SCooTER®. Jetzt auf unserer Website informieren!"
         />
         <meta
+          name="google-site-verification"
+          content="eQmstX9DJ1RTdn_D_QIvxMDk3E1jgLGHhKTbZMVE1Ag"
+        />
+        <meta
           name=":image"
           property="og:image"
           content="/images/Be-Scooter.png"
