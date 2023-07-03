@@ -58,9 +58,7 @@ export function Faqs() {
           </div>
         </AnimationOnScroll>
 
-        <div className="mb-10">
-          <ContactForm />
-        </div>
+        <div className="mb-10">{/* <ContactForm /> */}</div>
       </div>
     </section>
   )
