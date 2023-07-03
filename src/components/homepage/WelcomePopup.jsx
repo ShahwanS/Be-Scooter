@@ -22,7 +22,7 @@ export function WelcomePopup() {
         }
         return nextProgress
       })
-    }, 25) // 25ms intervals for smooth progress bar animation
+    }, 10) // 10ms intervals for smooth progress bar animation
     return () => clearInterval(timer)
   }, [loadingProgress])
 
@@ -37,10 +37,10 @@ export function WelcomePopup() {
       classNames="popup"
       unmountOnExit
     >
-      <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-75 transition-opacity">
-        <div className="relative rounded-lg bg-gradient-to-b from-blue-400 to-green-500 p-6 text-center">
+      <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-75 transition-opacity  ">
+        <div className="relative rounded-lg bg-gradient-to-b from-blue-400 to-green-500 p-6 text-center ">
           <Image
-            className="object-fit h-auto w-full rounded-3xl"
+            className="object-fit h-[250px] w-full rounded-3xl"
             src="/images/pics/beScooter.png"
             width={700}
             height={700}
@@ -57,12 +57,6 @@ export function WelcomePopup() {
               style={{ width: `${loadingProgress}%` }}
             ></div>
           </div>
-          <button
-            className="absolute top-2 right-2 rounded bg-gray-300 p-1 text-black hover:bg-gray-400 focus:outline-none"
-            onClick={handleClose}
-          >
-            ×
-          </button>
         </div>
       </div>
     </CSSTransition>
