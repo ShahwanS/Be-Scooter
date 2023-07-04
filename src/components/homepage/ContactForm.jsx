@@ -56,12 +56,16 @@ const ContactForm = () => {
           Kontakt uns :
         </h2>
         <form action="https://formsubmit.co/info@be-scooter.de" method="POST">
-          <input type="hidden" name="_captcha" value="false" />
           <input
             type="hidden"
             name="_next"
             value="https://be-scooter-shahwans.vercel.app/Submit"
           />
+          <input
+            type="hidden"
+            name="_blacklist"
+            value="spammy pattern, banned term, phrase"
+          ></input>
 
           <div>
             <label className="text-sm text-slate-200 md:text-black ">
